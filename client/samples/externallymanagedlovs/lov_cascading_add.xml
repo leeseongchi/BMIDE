@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0"  Date="" >
+<Add>
+	<TcLOVValueSubLOVAttach conditionName="isTrue" subLOVName="ExcelTemplateRules" targetLOVName="Ab0SampleCascadingBatchLOV" targetValue="Static LOV 1"/>
+	<TcLOVValueSubLOVAttach conditionName="isTrue" subLOVName="GraphicUsages" targetLOVName="Ab0SampleCascadingBatchLOV" targetValue="Static LOV 2"/>
+	<TcLOVValueSubLOVAttach conditionName="isTrue" subLOVName="Ab0SampleBatchLOV" targetLOVName="Ab0SampleCascadingBatchLOV" targetValue="Batch LOV 1"/>
+</Add>
+<Change>
+	<TcLOV description="Sample Cascading Batch LOV" lovType="ListOfValuesString" name="Ab0SampleCascadingBatchLOV" usage="Exhaustive" isManagedExternally="true">
+		<TcLOVValue description="This value has attachment from Static LOV" value="Static LOV 1"/>
+		<TcLOVValue description="This value has attachment from Static LOV" value="Static LOV 2"/>
+		<TcLOVValue description="This value has attachment from another batch LOV" value="Batch LOV 1"/>
+	</TcLOV>
+	
+	<TcLOV description="Sample Batch LOV" lovType="ListOfValueString" name="Ab0SampleBatchLOV" usage="Suggestive" isManagedExternally="true">
+		<TcLOVValue description="sample" value="Sweden"/>
+		<TcLOVValue description="sample" value="India"/>
+		<TcLOVValue description="sample" value="UK"/>
+		<TcLOVValue description="sample" value="USA"/>
+		<TcLOVValue description="sample" value="Germany"/>
+		<TcLOVValue description="sample" value="South Africa"/>
+		<TcLOVValue description="sample" value="Australia"/>
+		<TcLOVValue description="sample" value="New Zealand"/>
+		<TcLOVValue description="sample" value="UAE"/>
+		<TcLOVValue description="sample" value="Pakistan"/>
+	</TcLOV>	
+</Change>   
+</TcBusinessData>

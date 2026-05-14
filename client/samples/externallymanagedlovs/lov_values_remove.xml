@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0" Date="" >
+<Change>	
+	<TcLOV description="Simple Batch LOV" lovType="ListOfValuesString" name="Ab0HunderedValueStringLOV" usage="Exhaustive" isManagedExternally="true" >
+		<TcLOVValue conditionName="isTrue" description="L1 Desc" value="L1"/>
+		<TcLOVValue conditionName="isTrue" description="L2 Desc" value="L2"/>
+		<TcLOVValue conditionName="isTrue" description="L3 Desc" value="L3"/>
+		<TcLOVValue conditionName="isTrue" description="L4 Desc" value="L4"/>
+		<TcLOVValue conditionName="isTrue" description="L5 Desc" value="L5"/>
+		<TcLOVValue conditionName="isTrue" description="L6 Desc" value="L6"/>
+		<TcLOVValue conditionName="isTrue" description="L7 Desc" value="L7"/>
+		<TcLOVValue conditionName="isTrue" description="L8 Desc" value="L8"/>
+		<TcLOVValue conditionName="isTrue" description="L9 Desc" value="L9"/>
+		<TcLOVValue conditionName="isTrue" description="L10 Desc" value="L10"/>
+		<TcLOVValue conditionName="isTrue" description="L11 Desc" value="L11"/>
+		<TcLOVValue conditionName="isTrue" description="L12 Desc" value="L12"/>
+		<TcLOVValue conditionName="isTrue" description="L13 Desc" value="L13"/>
+		<TcLOVValue conditionName="isTrue" description="L14 Desc" value="L14"/>
+		<TcLOVValue conditionName="isTrue" description="L15 Desc" value="L15"/>
+		<TcLOVValue conditionName="isTrue" description="L16 Desc" value="L16"/>
+		<TcLOVValue conditionName="isTrue" description="L17 Desc" value="L17"/>
+		<TcLOVValue conditionName="isTrue" description="L18 Desc" value="L18"/>
+		<TcLOVValue conditionName="isTrue" description="L19 Desc" value="L19"/>
+		<TcLOVValue conditionName="isTrue" description="L20 Desc" value="L20"/>
+		<TcLOVValue conditionName="isTrue" description="L21 Desc" value="L21"/>
+		<TcLOVValue conditionName="isTrue" description="L22 Desc" value="L22"/>
+		<TcLOVValue conditionName="isTrue" description="L23 Desc" value="L23"/>
+		<TcLOVValue conditionName="isTrue" description="L24 Desc" value="L24"/>
+		<TcLOVValue conditionName="isTrue" description="L25 Desc" value="L25"/>
+		<TcLOVValue conditionName="isTrue" description="L26 Desc" value="L26"/>
+		<TcLOVValue conditionName="isTrue" description="L27 Desc" value="L27"/>
+		<TcLOVValue conditionName="isTrue" description="L28 Desc" value="L28"/>
+		<TcLOVValue conditionName="isTrue" description="L29 Desc" value="L29"/>
+		<TcLOVValue conditionName="isTrue" description="L30 Desc" value="L30"/>
+		<TcLOVValue conditionName="isTrue" description="L31 Desc" value="L31"/>
+		<TcLOVValue conditionName="isTrue" description="L32 Desc" value="L32"/>
+		<TcLOVValue conditionName="isTrue" description="L33 Desc" value="L33"/>
+		<TcLOVValue conditionName="isTrue" description="L34 Desc" value="L34"/>
+		<TcLOVValue conditionName="isTrue" description="L35 Desc" value="L35"/>
+		<TcLOVValue conditionName="isTrue" description="L36 Desc" value="L36"/>
+		<TcLOVValue conditionName="isTrue" description="L37 Desc" value="L37"/>
+		<TcLOVValue conditionName="isTrue" description="L38 Desc" value="L38"/>
+		<TcLOVValue conditionName="isTrue" description="L39 Desc" value="L39"/>
+		<TcLOVValue conditionName="isTrue" description="L40 Desc" value="L40"/>
+		<TcLOVValue conditionName="isTrue" description="L41 Desc" value="L41"/>
+		<TcLOVValue conditionName="isTrue" description="L42 Desc" value="L42"/>
+		<TcLOVValue conditionName="isTrue" description="L43 Desc" value="L43"/>
+		<TcLOVValue conditionName="isTrue" description="L44 Desc" value="L44"/>
+		<TcLOVValue conditionName="isTrue" description="L45 Desc" value="L45"/>
+		<TcLOVValue conditionName="isTrue" description="L46 Desc" value="L46"/>
+		<TcLOVValue conditionName="isTrue" description="L47 Desc" value="L47"/>
+		<TcLOVValue conditionName="isTrue" description="L48 Desc" value="L48"/>
+		<TcLOVValue conditionName="isTrue" description="L49 Desc" value="L49"/>
+		<TcLOVValue conditionName="isTrue" description="L50 Desc" value="L50"/>
+	</TcLOV>	
+</Change>   
+</TcBusinessData>

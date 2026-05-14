@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Siemens Polycarbonate Look and Feel
+Automatic-Module-Name: com.teamcenter.siemens.lookandfeel
+Bundle-SymbolicName: com.teamcenter.siemens.lookandfeel;singleton:=true
+Bundle-Version: 2406
+TC-Version: V2406.0006.2024120600
+Bundle-Vendor: Siemens PLM Software, Inc.
+Bundle-Localization: plugin_locale
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Bundle-ActivationPolicy: lazy

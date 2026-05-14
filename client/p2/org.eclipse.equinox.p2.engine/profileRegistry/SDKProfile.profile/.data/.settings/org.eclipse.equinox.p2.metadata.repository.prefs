@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+repositories/https\:__download.eclipse.org_eclipse_updates_4.25/count=1
+repositories/https\:__download.eclipse.org_eclipse_updates_4.25/enabled=true
+repositories/https\:__download.eclipse.org_eclipse_updates_4.25/nickname=The Eclipse Project Updates
+repositories/https\:__download.eclipse.org_eclipse_updates_4.25/uri=https\://download.eclipse.org/eclipse/updates/4.25
+repositories/https\:__download.eclipse.org_releases_2022-09/count=1
+repositories/https\:__download.eclipse.org_releases_2022-09/enabled=true
+repositories/https\:__download.eclipse.org_releases_2022-09/nickname=2022-09
+repositories/https\:__download.eclipse.org_releases_2022-09/uri=https\://download.eclipse.org/releases/2022-09

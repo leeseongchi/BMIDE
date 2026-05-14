@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Apache Commons XMLSchema Plug-in
+Bundle-SymbolicName: commons_xmlschema
+Bundle-Version: 1.3.2
+Bundle-ClassPath: XmlSchema-1.3.2.jar
+Bundle-Vendor: Apache
+Bundle-Localization: plugin
+Export-Package: org.apache.ws.commons.schema,
+ org.apache.ws.commons.schema.constants,
+ org.apache.ws.commons.schema.extensions,
+ org.apache.ws.commons.schema.resolver,
+ org.apache.ws.commons.schema.utils

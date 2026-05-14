@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="Big5" standalone="yes"?>
+<!--
+===============================================================================
+                Copyright (c) 2008 Siemens PLM Software
+                   Unpublished - All Rights Reserved
+===============================================================================
+File description:
+
+            Module: TextServer
+
+            XML File defining ___ module text/error messages.
+            This was previously done in UIH/UIL/VIL format.
+ -->
+<!-- This file contains only translatable resources. -->
+<textsrv filename="textsrv_text_locale.xml">
+
+    <!-- SECTION LANGUAGE DISPLAY NAME                                          -->
+    <!-- Defines the localized name for each out-of-the-box language.           -->
+    <!-- If a customization is done, this file and all the same-named files for -->
+    <!-- all other languages (or at least the ones of interest to the customer) -->
+    <!-- need to be enriched to provide this information.                       -->
+    <!-- In the example of dk_DA, the addition would be:                        -->
+    <!-- <key id="textsrv_localeName_da_DK">Danish</key>                        -->
+    <key id="textsrv_localeName_cs_CZ">捷克文</key>
+    <key id="textsrv_localeName_de_DE">德文</key>
+    <key id="textsrv_localeName_es_ES">西班牙文</key>
+    <key id="textsrv_localeName_en_US">英文</key>
+    <key id="textsrv_localeName_fr_FR">法文</key>
+    <key id="textsrv_localeName_it_IT">義大利文</key>
+    <key id="textsrv_localeName_ja_JP">日文</key>
+    <key id="textsrv_localeName_ko_KR">韓文</key>
+    <key id="textsrv_localeName_pl_PL">波蘭文</key>
+    <key id="textsrv_localeName_pt_BR">葡萄牙文</key>
+    <key id="textsrv_localeName_ru_RU">俄文</key>
+    <key id="textsrv_localeName_zh_CN">簡體中文</key>
+    <key id="textsrv_localeName_zh_TW">繁體中文</key>
+    <!-- END OF SECTION -->
+
+    <key id="textsrv_dbEncodingName_NO_SUPPORT">不受支援</key>
+
+    <key id="textsrv_defaultLocale">（預設語言環境）</key>
+
+    <key id="textsrv_TranslationStatus_Name_M">主</key>
+    <key id="textsrv_TranslationStatus_Name_A">已批准</key>
+    <key id="textsrv_TranslationStatus_Name_P">待處理</key>
+    <key id="textsrv_TranslationStatus_Name_R">審核中</key>
+    <key id="textsrv_TranslationStatus_Name_I">無效</key>
+    <key id="textsrv_TranslationStatus_Description_M">表示這是主要翻譯。</key>
+    <key id="textsrv_TranslationStatus_Description_A">表示翻譯已獲批准。</key>
+    <key id="textsrv_TranslationStatus_Description_P">表示翻譯批准正等待處理。</key>
+    <key id="textsrv_TranslationStatus_Description_R">表示翻譯批准正在審核過程中。</key>
+    <key id="textsrv_TranslationStatus_Description_I">表示翻譯無效。</key>
+
+</textsrv>

@@ -1,0 +1,11 @@
+BusinessModelerIDEClientID=PDM-DEV_C22BDA0E39ED187A283A8FFDAA0BF067
+TcDev_2Tier=TcDev_2Tier,tccs,TcDev_2Tier,null,2406,,,,
+TcDev_2Tier_env=null,2406,
+TcEnv=TcEnv,tccs,TcEnv,http\://172.19.30.115\:7001/tc,2406,,,,
+TcEnvDev=TcEnvDev,tccs,TcEnvDev,http\://172.19.30.142\:7001/tc,2406,,,,
+TcEnvDev_env=http\://172.19.30.142\:7001/tc,2406,
+TcEnv_env=http\://172.19.30.115\:7001/tc,2406,
+TcServerProfiles=TcDev_2Tier,TcEnvDev,TcEnv,
+TccsEnvProfiles=TcDev_2Tier,TcEnvDev,TcEnv,
+TccsEnvs=TcDev_2Tier,TcEnvDev,TcEnv,
+eclipse.preferences.version=1

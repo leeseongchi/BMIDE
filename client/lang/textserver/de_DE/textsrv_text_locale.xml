@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<!--
+===============================================================================
+                Copyright (c) 2008 Siemens PLM Software
+                   Unpublished - All Rights Reserved
+===============================================================================
+File description:
+
+            Module: TextServer
+
+            XML File defining ___ module text/error messages.
+            This was previously done in UIH/UIL/VIL format.
+ -->
+<!-- This file contains only translatable resources. -->
+<textsrv filename="textsrv_text_locale.xml">
+
+    <!-- SECTION LANGUAGE DISPLAY NAME                                          -->
+    <!-- Defines the localized name for each out-of-the-box language.           -->
+    <!-- If a customization is done, this file and all the same-named files for -->
+    <!-- all other languages (or at least the ones of interest to the customer) -->
+    <!-- need to be enriched to provide this information.                       -->
+    <!-- In the example of dk_DA, the addition would be:                        -->
+    <!-- <key id="textsrv_localeName_da_DK">Danish</key>                        -->
+    <key id="textsrv_localeName_cs_CZ">Tschechisch</key>
+    <key id="textsrv_localeName_de_DE">Deutsch</key>
+    <key id="textsrv_localeName_es_ES">Spanisch</key>
+    <key id="textsrv_localeName_en_US">Englisch</key>
+    <key id="textsrv_localeName_fr_FR">Französisch</key>
+    <key id="textsrv_localeName_it_IT">Italienisch</key>
+    <key id="textsrv_localeName_ja_JP">Japanisch</key>
+    <key id="textsrv_localeName_ko_KR">Koreanisch</key>
+    <key id="textsrv_localeName_pl_PL">Polnisch</key>
+    <key id="textsrv_localeName_pt_BR">Portugiesisch</key>
+    <key id="textsrv_localeName_ru_RU">Russisch</key>
+    <key id="textsrv_localeName_zh_CN">Chinesisch (vereinfacht)</key>
+    <key id="textsrv_localeName_zh_TW">Chinesisch (traditionell)</key>
+    <!-- END OF SECTION -->
+
+    <key id="textsrv_dbEncodingName_NO_SUPPORT">Nicht unterstützt</key>
+
+    <key id="textsrv_defaultLocale">(Standardgebietsschema)</key>
+
+    <key id="textsrv_TranslationStatus_Name_M">Master</key>
+    <key id="textsrv_TranslationStatus_Name_A">Genehmigt</key>
+    <key id="textsrv_TranslationStatus_Name_P">Ausstehend</key>
+    <key id="textsrv_TranslationStatus_Name_R">In Prüfung</key>
+    <key id="textsrv_TranslationStatus_Name_I">Ungültig</key>
+    <key id="textsrv_TranslationStatus_Description_M">Gibt an, dass dies die Hauptübersetzung ist.</key>
+    <key id="textsrv_TranslationStatus_Description_A">Gibt an, dass die Übersetzung genehmigt wurde.</key>
+    <key id="textsrv_TranslationStatus_Description_P">Gibt an, dass die Genehmigung der Übersetzung noch aussteht.</key>
+    <key id="textsrv_TranslationStatus_Description_R">Gibt an, dass die Genehmigung der Übersetzung den Review-Prozess durchläuft.</key>
+    <key id="textsrv_TranslationStatus_Description_I">Gibt an, dass die Übersetzung ungültig ist.</key>
+
+</textsrv>

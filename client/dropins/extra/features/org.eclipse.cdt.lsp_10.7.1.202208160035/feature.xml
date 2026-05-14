@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Copyright (c) 2017, 2021 Ericsson and others.
+
+	This program and the accompanying materials are made available under the
+	terms of the Eclipse Public License 2.0 which is available at
+	https://www.eclipse.org/legal/epl-2.0/.
+
+	SPDX-License-Identifier: EPL-2.0
+-->
+<feature
+      id="org.eclipse.cdt.lsp"
+      label="%featureName"
+      version="10.7.1.202208160035"
+      provider-name="%featureProvider"
+      plugin="org.eclipse.cdt.lsp.ui">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.eclipse.cdt.lsp.core"
+         download-size="45"
+         install-size="107"
+         version="1.1.300.202204200013"/>
+
+   <plugin
+         id="org.eclipse.cdt.lsp.ui"
+         download-size="43"
+         install-size="108"
+         version="0.1.400.202204200013"/>
+
+   <plugin
+         id="org.eclipse.cdt.lsp.clangd"
+         download-size="16"
+         install-size="51"
+         version="0.1.100.202204200013"/>
+
+</feature>

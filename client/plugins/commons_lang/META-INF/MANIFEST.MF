@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Jakarta Commons Lang Plug-in
+Bundle-SymbolicName: commons_lang
+Bundle-Version: 2.1
+Bundle-ClassPath: commons-lang.jar
+Bundle-Vendor: Apache
+Bundle-Localization: plugin
+Export-Package: org.apache.commons.lang,
+ org.apache.commons.lang.builder,
+ org.apache.commons.lang.enum,
+ org.apache.commons.lang.enums,
+ org.apache.commons.lang.exception,
+ org.apache.commons.lang.math,
+ org.apache.commons.lang.mutable,
+ org.apache.commons.lang.time

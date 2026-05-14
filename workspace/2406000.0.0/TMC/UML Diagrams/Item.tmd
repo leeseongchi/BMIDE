@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ASCII"?>
+<com.teamcenter.graphmodel:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.teamcenter.bmide.foundation.core="http:///com/teamcenter/bmide/foundation/core/model/tcmodel.ecore" xmlns:com.teamcenter.bmide.server.uml.viewmodel="http:///com.teamcenter.bmide.server.uml.viewmodel/viewmodel.ecore" xmlns:com.teamcenter.graphmodel="http:///com/teamcenter/graphmodel/graphmodel.ecore">
+  <contents xsi:type="com.teamcenter.bmide.server.uml.viewmodel:NamedElementViewNode" incomingConnections="//@contents.1/@outgoingConnections.0" location="405,229" dimension="440,226">
+    <modelObject xsi:type="com.teamcenter.bmide.foundation.core:TcClass" href="../../TcModelGhostFilePath#TcClass/Item"/>
+  </contents>
+  <contents xsi:type="com.teamcenter.bmide.server.uml.viewmodel:NamedElementViewNode" incomingConnections="//@contents.2/@outgoingConnections.0" location="45,-150">
+    <outgoingConnections xsi:type="com.teamcenter.bmide.server.uml.viewmodel:InheritanceLink" target="//@contents.0"/>
+    <modelObject xsi:type="com.teamcenter.bmide.foundation.core:TcClass" href="../../TcModelGhostFilePath#TcClass/WorkspaceObject"/>
+  </contents>
+  <contents xsi:type="com.teamcenter.bmide.server.uml.viewmodel:NamedElementViewNode" incomingConnections="//@contents.3/@outgoingConnections.0" location="502,-153" dimension="355,178">
+    <outgoingConnections xsi:type="com.teamcenter.bmide.server.uml.viewmodel:InheritanceLink" target="//@contents.1"/>
+    <modelObject xsi:type="com.teamcenter.bmide.foundation.core:TcClass" href="../../TcModelGhostFilePath#TcClass/POM_application_object"/>
+  </contents>
+  <contents xsi:type="com.teamcenter.bmide.server.uml.viewmodel:NamedElementViewNode" location="929,-148" dimension="327,114">
+    <outgoingConnections xsi:type="com.teamcenter.bmide.server.uml.viewmodel:InheritanceLink" target="//@contents.2"/>
+    <modelObject xsi:type="com.teamcenter.bmide.foundation.core:TcClass" href="../../TcModelGhostFilePath#TcClass/POM_object"/>
+  </contents>
+</com.teamcenter.graphmodel:Diagram>
