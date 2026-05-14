@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1741567484987" shared_ur="file:configuration/org.eclipse.update/platform.xml" transient="false" version="3.0">
+<site enabled="true" policy="USER-EXCLUDE" updateable="true" url="file:../workspace/">
+</site>
+<site enabled="true" policy="USER-EXCLUDE" updateable="true" url="file:dropins/extra/">
+<feature id="org.eclipse.cdt" url="features/org.eclipse.cdt_10.7.1.202208222120/" version="10.7.1.202208222120">
+</feature>
+<feature id="org.eclipse.emf.ecore.xcore.ui.source" url="features/org.eclipse.emf.ecore.xcore.ui.source_1.21.0.v20220819-1204/" version="1.21.0.v20220819-1204">
+</feature>
+<feature id="org.eclipse.cdt.debug.dap" url="features/org.eclipse.cdt.debug.dap_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.tm.terminal.connector.ssh.feature" plugin-identifier="org.eclipse.tm.terminal.connector.ssh" url="features/org.eclipse.tm.terminal.connector.ssh.feature_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.databinding.source" url="features/org.eclipse.emf.databinding.source_1.9.0.v20220517-0824/" version="1.9.0.v20220517-0824">
+</feature>
+<feature id="org.eclipse.cdt.gnu.build" plugin-identifier="org.eclipse.cdt.build.gcc.ui" url="features/org.eclipse.cdt.gnu.build_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.tm.terminal.connector.telnet.feature" url="features/org.eclipse.tm.terminal.connector.telnet.feature_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.mapping.ecore.editor.source" url="features/org.eclipse.emf.mapping.ecore.editor.source_2.15.0.v20210924-1718/" version="2.15.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.xsd.mapping.editor" url="features/org.eclipse.xsd.mapping.editor_2.14.0.v20210924-1719/" version="2.14.0.v20210924-1719">
+</feature>
+<feature id="org.eclipse.gef" url="features/org.eclipse.gef_3.15.0.202211301913/" version="3.15.0.202211301913">
+</feature>
+<feature id="org.eclipse.cdt.platform" plugin-identifier="org.eclipse.cdt.platform.branding" url="features/org.eclipse.cdt.platform_10.7.1.202208222120/" version="10.7.1.202208222120">
+</feature>
+<feature id="org.eclipse.cdt.meson" plugin-identifier="org.eclipse.cdt.meson.ui" url="features/org.eclipse.cdt.meson_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.ecore.xcore.ui" url="features/org.eclipse.emf.ecore.xcore.ui_1.21.0.v20220819-1204/" version="1.21.0.v20220819-1204">
+</feature>
+<feature id="org.eclipse.cdt.gnu.multicorevisualizer" plugin-identifier="org.eclipse.cdt.dsf.gdb.multicorevisualizer.ui" url="features/org.eclipse.cdt.gnu.multicorevisualizer_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.ecore.xcore.source" url="features/org.eclipse.emf.ecore.xcore.source_1.22.0.v20220819-1204/" version="1.22.0.v20220819-1204">
+</feature>
+<feature id="org.eclipse.emf.gwt.sdk" url="features/org.eclipse.emf.gwt.sdk_2.18.0.v20211216-0528/" version="2.18.0.v20211216-0528">
+</feature>
+<feature id="org.eclipse.cdt.debug.gdbjtag" url="features/org.eclipse.cdt.debug.gdbjtag_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.rap.sdk" url="features/org.eclipse.emf.rap.sdk_2.31.0.v20220817-1401/" version="2.31.0.v20220817-1401">
+</feature>
+<feature id="org.eclipse.tm.terminal.view.feature" plugin-identifier="org.eclipse.tm.terminal.view.ui" url="features/org.eclipse.tm.terminal.view.feature_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.codegen.ui" url="features/org.eclipse.emf.codegen.ui_2.24.0.v20210924-1718/" version="2.24.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.xsd.mapping" url="features/org.eclipse.xsd.mapping_2.14.0.v20210924-1719/" version="2.14.0.v20210924-1719">
+</feature>
+<feature id="org.eclipse.cdt.msw" plugin-identifier="org.eclipse.cdt.msw.build" url="features/org.eclipse.cdt.msw_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.gwt.common.source" url="features/org.eclipse.emf.gwt.common.source_2.15.0.v20211216-0528/" version="2.15.0.v20211216-0528">
+</feature>
+<feature id="org.eclipse.launchbar.remote" plugin-identifier="org.eclipse.launchbar.remote.ui" url="features/org.eclipse.launchbar.remote_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.common.source" url="features/org.eclipse.emf.common.source_2.27.0.v20220817-1401/" version="2.27.0.v20220817-1401">
+</feature>
+<feature id="org.eclipse.cdt.qt" plugin-identifier="org.eclipse.cdt.qt.ui" url="features/org.eclipse.cdt.qt_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.all" url="features/org.eclipse.emf.all_2.31.0.v20220817-1401/" version="2.31.0.v20220817-1401">
+</feature>
+<feature id="org.eclipse.emf.converter" url="features/org.eclipse.emf.converter_2.18.0.v20220706-1313/" version="2.18.0.v20220706-1313">
+</feature>
+<feature id="org.eclipse.cdt.debug.standalone" plugin-identifier="org.eclipse.cdt.debug.application" url="features/org.eclipse.cdt.debug.standalone_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.gwt.edit.source" url="features/org.eclipse.emf.gwt.edit.source_2.12.0.v20210924-1718/" version="2.12.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.emf.edit.ui" url="features/org.eclipse.emf.edit.ui_2.24.0.v20220619-0533/" version="2.24.0.v20220619-0533">
+</feature>
+<feature id="org.eclipse.tm.terminal.connector.cdtserial.feature" url="features/org.eclipse.tm.terminal.connector.cdtserial.feature_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.mapping.source" url="features/org.eclipse.emf.mapping.source_2.14.0.v20210924-1718/" version="2.14.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.gef.source" url="features/org.eclipse.gef.source_3.15.0.202211301913/" version="3.15.0.202211301913">
+</feature>
+<feature id="org.eclipse.emf.gwt.source" url="features/org.eclipse.emf.gwt.source_2.17.0.v20211216-0528/" version="2.17.0.v20211216-0528">
+</feature>
+<feature id="org.eclipse.emf.codegen.ecore.ui.source" url="features/org.eclipse.emf.codegen.ecore.ui.source_2.31.0.v20220706-1313/" version="2.31.0.v20220706-1313">
+</feature>
+<feature id="org.eclipse.cdt.autotools" plugin-identifier="org.eclipse.cdt.autotools.ui" url="features/org.eclipse.cdt.autotools_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.gwt.common" url="features/org.eclipse.emf.gwt.common_2.15.0.v20211216-0528/" version="2.15.0.v20211216-0528">
+</feature>
+<feature id="org.eclipse.cdt.docker.launcher" url="features/org.eclipse.cdt.docker.launcher_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.ecore.xcore.lib" url="features/org.eclipse.emf.ecore.xcore.lib_1.8.0.v20210924-1718/" version="1.8.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.emf.oda.sdk" url="features/org.eclipse.emf.oda.sdk_1.10.0.v20211216-0528/" version="1.10.0.v20211216-0528">
+</feature>
+<feature id="org.eclipse.emf.rap.source" url="features/org.eclipse.emf.rap.source_2.31.0.v20220817-1401/" version="2.31.0.v20220817-1401">
+</feature>
+<feature id="org.eclipse.emf.ecore.source" url="features/org.eclipse.emf.ecore.source_2.29.0.v20220817-1401/" version="2.29.0.v20220817-1401">
+</feature>
+<feature id="org.eclipse.emf.ecore.xcore.sdk" url="features/org.eclipse.emf.ecore.xcore.sdk_1.22.0.v20220819-1204/" version="1.22.0.v20220819-1204">
+</feature>
+<feature id="org.eclipse.remote.telnet" plugin-identifier="org.eclipse.remote.telnet.ui" url="features/org.eclipse.remote.telnet_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.xsd.editor.source" url="features/org.eclipse.xsd.editor.source_2.14.0.v20210924-1719/" version="2.14.0.v20210924-1719">
+</feature>
+<feature id="org.eclipse.cdt.unittest.feature" url="features/org.eclipse.cdt.unittest.feature_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.gwt" url="features/org.eclipse.emf.gwt_2.17.0.v20211216-0528/" version="2.17.0.v20211216-0528">
+</feature>
+<feature id="org.eclipse.jdt" url="features/org.eclipse.jdt_3.18.1300.v20220831-1800/" version="3.18.1300.v20220831-1800">
+</feature>
+<feature id="org.eclipse.emf.common" url="features/org.eclipse.emf.common_2.27.0.v20220817-1401/" version="2.27.0.v20220817-1401">
+</feature>
+<feature id="org.eclipse.emf.codegen.ecore.source" url="features/org.eclipse.emf.codegen.ecore.source_2.31.0.v20220730-0849/" version="2.31.0.v20220730-0849">
+</feature>
+<feature id="org.eclipse.emf.gwt.ecore.edit" url="features/org.eclipse.emf.gwt.ecore.edit_2.13.0.v20210924-1718/" version="2.13.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.remote" plugin-identifier="org.eclipse.remote.ui" url="features/org.eclipse.remote_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.xsd.mapping.editor.source" url="features/org.eclipse.xsd.mapping.editor.source_2.14.0.v20210924-1719/" version="2.14.0.v20210924-1719">
+</feature>
+<feature id="org.eclipse.cdt.lsp" plugin-identifier="org.eclipse.cdt.lsp.ui" url="features/org.eclipse.cdt.lsp_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.mapping" url="features/org.eclipse.emf.mapping_2.14.0.v20210924-1718/" version="2.14.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.cdt.managedbuilder.llvm" plugin-identifier="org.eclipse.cdt.managedbuilder.llvm.ui" url="features/org.eclipse.cdt.managedbuilder.llvm_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.ecore" url="features/org.eclipse.emf.ecore_2.29.0.v20220817-1401/" version="2.29.0.v20220817-1401">
+</feature>
+<feature id="org.eclipse.emf.gwt.ecore.source" url="features/org.eclipse.emf.gwt.ecore.source_2.16.0.v20210924-1718/" version="2.16.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.launchbar" plugin-identifier="org.eclipse.launchbar.ui" url="features/org.eclipse.launchbar_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.oda.ecore.ui.source" url="features/org.eclipse.emf.oda.ecore.ui.source_1.7.0.v20210924-1718/" version="1.7.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.emf.oda.ecore" url="features/org.eclipse.emf.oda.ecore_1.8.0.v20211216-0528/" version="1.8.0.v20211216-0528">
+</feature>
+<feature id="org.eclipse.emf.rap.edit.ui.source" url="features/org.eclipse.emf.rap.edit.ui.source_2.14.0.v20210924-1718/" version="2.14.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.cdt.cmake" plugin-identifier="org.eclipse.cdt.cmake.ui" url="features/org.eclipse.cdt.cmake_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.xsd.mapping.source" url="features/org.eclipse.xsd.mapping.source_2.14.0.v20210924-1719/" version="2.14.0.v20210924-1719">
+</feature>
+<feature id="org.eclipse.emf.oda.source" url="features/org.eclipse.emf.oda.source_1.8.0.v20211216-0528/" version="1.8.0.v20211216-0528">
+</feature>
+<feature id="org.eclipse.emf.mapping.ecore.editor" url="features/org.eclipse.emf.mapping.ecore.editor_2.15.0.v20210924-1718/" version="2.15.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.emf.examples" url="features/org.eclipse.emf.examples_2.21.0.v20220312-1031/" version="2.21.0.v20220312-1031">
+</feature>
+<feature id="org.eclipse.emf.ecore.edit" url="features/org.eclipse.emf.ecore.edit_2.15.0.v20210924-1718/" version="2.15.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.emf.common.ui.source" url="features/org.eclipse.emf.common.ui.source_2.19.0.v20220226-1304/" version="2.19.0.v20220226-1304">
+</feature>
+<feature id="org.eclipse.emf.mapping.ecore" url="features/org.eclipse.emf.mapping.ecore_2.13.0.v20210924-1718/" version="2.13.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.emf.databinding.edit.source" url="features/org.eclipse.emf.databinding.edit.source_1.9.0.v20210924-1718/" version="1.9.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.emf.codegen.ui.source" url="features/org.eclipse.emf.codegen.ui.source_2.24.0.v20210924-1718/" version="2.24.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.xsd.edit.source" url="features/org.eclipse.xsd.edit.source_2.14.0.v20210924-1719/" version="2.14.0.v20210924-1719">
+</feature>
+<feature id="org.eclipse.emf.rap.edit.ui" url="features/org.eclipse.emf.rap.edit.ui_2.14.0.v20210924-1718/" version="2.14.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.zest" plugin-identifier="org.eclipse.zest.core" url="features/org.eclipse.zest_3.15.0.202211301913/" version="3.15.0.202211301913">
+</feature>
+<feature id="org.eclipse.xsd.example" url="features/org.eclipse.xsd.example_2.12.0.v20211216-0527/" version="2.12.0.v20211216-0527">
+</feature>
+<feature id="org.eclipse.cdt.debug.ui.memory" plugin-identifier="org.eclipse.cdt.debug.ui.memory.memorybrowser" url="features/org.eclipse.cdt.debug.ui.memory_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.gwt.ecore" url="features/org.eclipse.emf.gwt.ecore_2.16.0.v20210924-1718/" version="2.16.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.emf.codegen" url="features/org.eclipse.emf.codegen_2.23.0.v20210924-1718/" version="2.23.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.xsd.source" url="features/org.eclipse.xsd.source_2.20.0.v20220616-0915/" version="2.20.0.v20220616-0915">
+</feature>
+<feature id="org.eclipse.emf.gwt.edit.ui.source" url="features/org.eclipse.emf.gwt.edit.ui.source_2.12.0.v20210924-1718/" version="2.12.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.tm.terminal.connector.remote.feature" url="features/org.eclipse.tm.terminal.connector.remote.feature_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf" url="features/org.eclipse.emf_2.31.0.v20220817-1401/" version="2.31.0.v20220817-1401">
+</feature>
+<feature id="org.eclipse.xsd.ecore.converter.source" url="features/org.eclipse.xsd.ecore.converter.source_2.13.0.v20210924-1719/" version="2.13.0.v20210924-1719">
+</feature>
+<feature id="org.eclipse.tm.terminal.connector.local.feature" url="features/org.eclipse.tm.terminal.connector.local.feature_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.gwt.ecore.edit.source" url="features/org.eclipse.emf.gwt.ecore.edit.source_2.13.0.v20210924-1718/" version="2.13.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.xsd" url="features/org.eclipse.xsd_2.20.0.v20220616-0915/" version="2.20.0.v20220616-0915">
+</feature>
+<feature id="org.eclipse.draw2d" url="features/org.eclipse.draw2d_3.15.0.202211301913/" version="3.15.0.202211301913">
+</feature>
+<feature id="org.eclipse.cdt.build.crossgcc" url="features/org.eclipse.cdt.build.crossgcc_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.edit" url="features/org.eclipse.emf.edit_2.18.0.v20220201-1551/" version="2.18.0.v20220201-1551">
+</feature>
+<feature id="org.eclipse.emf.oda" url="features/org.eclipse.emf.oda_1.8.0.v20211216-0528/" version="1.8.0.v20211216-0528">
+</feature>
+<feature id="org.eclipse.cdt.core.autotools" plugin-identifier="org.eclipse.cdt.core.autotools.ui" url="features/org.eclipse.cdt.core.autotools_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.ecore.editor.source" url="features/org.eclipse.emf.ecore.editor.source_2.18.0.v20210924-1718/" version="2.18.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.remote.proxy" plugin-identifier="org.eclipse.remote.proxy.ui" url="features/org.eclipse.remote.proxy_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.databinding.edit" url="features/org.eclipse.emf.databinding.edit_1.9.0.v20210924-1718/" version="1.9.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.emf.ecore.xcore.lib.source" url="features/org.eclipse.emf.ecore.xcore.lib.source_1.8.0.v20210924-1718/" version="1.8.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.emf.edit.source" url="features/org.eclipse.emf.edit.source_2.18.0.v20220201-1551/" version="2.18.0.v20220201-1551">
+</feature>
+<feature id="org.eclipse.xsd.edit" url="features/org.eclipse.xsd.edit_2.14.0.v20210924-1719/" version="2.14.0.v20210924-1719">
+</feature>
+<feature id="org.eclipse.emf.oda.ecore.source" url="features/org.eclipse.emf.oda.ecore.source_1.8.0.v20211216-0528/" version="1.8.0.v20211216-0528">
+</feature>
+<feature id="org.eclipse.jdt.source" url="features/org.eclipse.jdt.source_3.18.1300.v20220831-1800/" version="3.18.1300.v20220831-1800">
+</feature>
+<feature id="org.eclipse.emf.codegen.ecore" url="features/org.eclipse.emf.codegen.ecore_2.31.0.v20220730-0849/" version="2.31.0.v20220730-0849">
+</feature>
+<feature id="org.eclipse.emf.rap" url="features/org.eclipse.emf.rap_2.31.0.v20220817-1401/" version="2.31.0.v20220817-1401">
+</feature>
+<feature id="org.eclipse.emf.mapping.ecore.source" url="features/org.eclipse.emf.mapping.ecore.source_2.13.0.v20210924-1718/" version="2.13.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.remote.console" url="features/org.eclipse.remote.console_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.codegen.source" url="features/org.eclipse.emf.codegen.source_2.23.0.v20210924-1718/" version="2.23.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.emf.sdk" url="features/org.eclipse.emf.sdk_2.31.0.v20220817-1401/" version="2.31.0.v20220817-1401">
+</feature>
+<feature id="org.eclipse.cdt.launch.serial.feature" plugin-identifier="org.eclipse.cdt.launch.serial.ui" url="features/org.eclipse.cdt.launch.serial.feature_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.ecore.xcore" url="features/org.eclipse.emf.ecore.xcore_1.22.0.v20220819-1204/" version="1.22.0.v20220819-1204">
+</feature>
+<feature id="org.eclipse.xsd.editor" url="features/org.eclipse.xsd.editor_2.14.0.v20210924-1719/" version="2.14.0.v20210924-1719">
+</feature>
+<feature id="org.eclipse.draw2d.source" url="features/org.eclipse.draw2d.source_3.15.0.202211301913/" version="3.15.0.202211301913">
+</feature>
+<feature id="org.eclipse.emf.doc" url="features/org.eclipse.emf.doc_2.29.0.v20220616-1148/" version="2.29.0.v20220616-1148">
+</feature>
+<feature id="org.eclipse.cdt.gdb" url="features/org.eclipse.cdt.gdb_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.cdt.visualizer" plugin-identifier="org.eclipse.cdt.visualizer.ui" url="features/org.eclipse.cdt.visualizer_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.cdt.debug.dap.gdbjtag" url="features/org.eclipse.cdt.debug.dap.gdbjtag_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.xsd.doc" url="features/org.eclipse.xsd.doc_2.26.0.v20220616-1149/" version="2.26.0.v20220616-1149">
+</feature>
+<feature id="org.eclipse.remote.serial" plugin-identifier="org.eclipse.remote.serial.ui" url="features/org.eclipse.remote.serial_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.xsd.sdk" url="features/org.eclipse.xsd.sdk_2.31.0.v20220616-1149/" version="2.31.0.v20220616-1149">
+</feature>
+<feature id="org.eclipse.cdt.testsrunner.feature" plugin-identifier="org.eclipse.cdt.testsrunner" url="features/org.eclipse.cdt.testsrunner.feature_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.edit.ui.source" url="features/org.eclipse.emf.edit.ui.source_2.24.0.v20220619-0533/" version="2.24.0.v20220619-0533">
+</feature>
+<feature id="org.eclipse.emf.base" url="features/org.eclipse.emf.base_2.31.0.v20220817-1401/" version="2.31.0.v20220817-1401">
+</feature>
+<feature id="org.eclipse.emf.gwt.edit" url="features/org.eclipse.emf.gwt.edit_2.12.0.v20210924-1718/" version="2.12.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.emf.common.ui" url="features/org.eclipse.emf.common.ui_2.19.0.v20220226-1304/" version="2.19.0.v20220226-1304">
+</feature>
+<feature id="org.eclipse.cdt.gnu.dsf" plugin-identifier="org.eclipse.cdt.dsf.gdb.ui" url="features/org.eclipse.cdt.gnu.dsf_10.7.1.202208222106/" version="10.7.1.202208222106">
+</feature>
+<feature id="org.eclipse.cdt.sdk" url="features/org.eclipse.cdt.sdk_10.7.1.202208222120/" version="10.7.1.202208222120">
+</feature>
+<feature id="org.eclipse.emf.converter.source" url="features/org.eclipse.emf.converter.source_2.18.0.v20220706-1313/" version="2.18.0.v20220706-1313">
+</feature>
+<feature id="org.eclipse.emf.mapping.ui" url="features/org.eclipse.emf.mapping.ui_2.14.0.v20210924-1718/" version="2.14.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.emf.oda.ecore.ui" url="features/org.eclipse.emf.oda.ecore.ui_1.7.0.v20210924-1718/" version="1.7.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.emf.rap.common.ui.source" url="features/org.eclipse.emf.rap.common.ui.source_2.13.0.v20220616-0914/" version="2.13.0.v20220616-0914">
+</feature>
+<feature id="org.eclipse.emf.mapping.ui.source" url="features/org.eclipse.emf.mapping.ui.source_2.14.0.v20210924-1718/" version="2.14.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.tm.terminal.control.feature" plugin-identifier="org.eclipse.tm.terminal.control" url="features/org.eclipse.tm.terminal.control.feature_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.ecore.edit.source" url="features/org.eclipse.emf.ecore.edit.source_2.15.0.v20210924-1718/" version="2.15.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.tm.terminal.feature" plugin-identifier="org.eclipse.tm.terminal.view.core" url="features/org.eclipse.tm.terminal.feature_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.rap.common.ui" url="features/org.eclipse.emf.rap.common.ui_2.13.0.v20220616-0914/" version="2.13.0.v20220616-0914">
+</feature>
+<feature id="org.eclipse.emf.codegen.ecore.ui" url="features/org.eclipse.emf.codegen.ecore.ui_2.31.0.v20220706-1313/" version="2.31.0.v20220706-1313">
+</feature>
+<feature id="org.eclipse.emf.ecore.editor" url="features/org.eclipse.emf.ecore.editor_2.18.0.v20210924-1718/" version="2.18.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.cdt.launch.remote" url="features/org.eclipse.cdt.launch.remote_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.source" url="features/org.eclipse.emf.source_2.31.0.v20220817-1401/" version="2.31.0.v20220817-1401">
+</feature>
+<feature id="org.eclipse.cdt.llvm.dsf.lldb" plugin-identifier="org.eclipse.cdt.llvm.dsf.lldb.ui" url="features/org.eclipse.cdt.llvm.dsf.lldb_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.xsd.ecore.converter" url="features/org.eclipse.xsd.ecore.converter_2.13.0.v20210924-1719/" version="2.13.0.v20210924-1719">
+</feature>
+<feature id="org.eclipse.emf.gwt.edit.ui" url="features/org.eclipse.emf.gwt.edit.ui_2.12.0.v20210924-1718/" version="2.12.0.v20210924-1718">
+</feature>
+<feature id="org.eclipse.cdt.examples.dsf" url="features/org.eclipse.cdt.examples.dsf_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.emf.databinding" url="features/org.eclipse.emf.databinding_1.9.0.v20220517-0824/" version="1.9.0.v20220517-0824">
+</feature>
+<feature id="org.eclipse.cdt.native" plugin-identifier="org.eclipse.cdt.core.native" url="features/org.eclipse.cdt.native_10.7.1.202208222120/" version="10.7.1.202208222120">
+</feature>
+<feature id="org.eclipse.cdt.gnu.debug" plugin-identifier="org.eclipse.cdt.launch" url="features/org.eclipse.cdt.gnu.debug_10.7.1.202208160035/" version="10.7.1.202208160035">
+</feature>
+<feature id="org.eclipse.zest.source" plugin-identifier="org.eclipse.zest.core" url="features/org.eclipse.zest.source_3.15.0.202211301913/" version="3.15.0.202211301913">
+</feature>
+</site>
+</config>

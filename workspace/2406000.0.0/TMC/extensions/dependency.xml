@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+@<COPYRIGHT>@
+==================================================
+Copyright 2025.
+Siemens Digital Industries Software.
+All Rights Reserved.
+==================================================
+@<COPYRIGHT>@
+--><TcBusinessDataIncludes currentTemplateVersion="2312.0_0" displayName="TMC" enableOpsDataDeploy="true" guid="263F71EFA88C29B5837AD08520FC90E6" isDescriptionMandatory="false" name="tmc" optional="true" prefixes="A4" teamcenterTemplate="false">
+    <include file="foundation_template.xml"/>
+</TcBusinessDataIncludes>

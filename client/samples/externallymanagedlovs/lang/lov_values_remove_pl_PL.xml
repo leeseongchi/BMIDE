@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization" batchXSDVersion="1.0" Date="" >
+<Add>
+
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L1" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L2" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L3" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L4" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L5" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L6" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L7" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L8" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L9" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L10" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L11" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L12" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L13" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L14" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L15" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L16" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L17" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L18" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L19" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L20" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L21" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L22" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L23" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L24" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L25" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L26" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L27" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L28" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L29" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L30" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L31" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L32" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L33" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L34" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L35" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L36" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L37" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L38" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L39" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L40" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L41" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L42" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L43" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L44" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L45" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L46" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L47" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L48" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L49" status="Approved" >Some Value</key>
+	<key locale="pl_PL" id="LOVValue{::}Ab0HunderedValueStringLOV{::}L50" status="Approved" >Some Value</key>
+
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L1" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L2" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L3" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L4" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L5" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L6" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L7" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L8" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L9" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L10" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L11" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L12" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L13" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L14" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L15" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L16" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L17" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L18" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L19" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L20" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L21" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L22" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L23" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L24" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L25" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L26" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L27" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L28" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L29" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L30" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L31" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L32" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L33" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L34" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L35" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L36" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L37" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L38" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L39" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L40" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L41" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L42" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L43" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L44" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L45" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L46" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L47" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L48" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L49" status="Approved" >Some Description</key>
+	<key locale="pl_PL" id="LOVValueDescription{::}Ab0HunderedValueStringLOV{::}L50" status="Approved" >Some Description</key>
+	
+</Add>
+</TcBusinessDataLocalization>
+
+	

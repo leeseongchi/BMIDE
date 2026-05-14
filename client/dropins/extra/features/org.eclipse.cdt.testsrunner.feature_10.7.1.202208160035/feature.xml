@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+   Copyright (c) 2012, 2021 Contributors to the Eclipse Foundation
+
+   This program and the accompanying materials
+   are made available under the terms of the Eclipse Public License 2.0
+   which accompanies this distribution, and is available at
+   https://www.eclipse.org/legal/epl-2.0/
+
+   SPDX-License-Identifier: EPL-2.0
+-->
+<feature
+      id="org.eclipse.cdt.testsrunner.feature"
+      label="%featureName"
+      version="10.7.1.202208160035"
+      provider-name="%providerName"
+      plugin="org.eclipse.cdt.testsrunner">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <plugin
+         id="org.eclipse.cdt.testsrunner"
+         download-size="206"
+         install-size="423"
+         version="8.2.400.202204200013"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.cdt.testsrunner.boost"
+         download-size="22"
+         install-size="65"
+         version="7.1.100.202204200013"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.cdt.testsrunner.gtest"
+         download-size="33"
+         install-size="88"
+         version="7.1.100.202204200013"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.cdt.testsrunner.qttest"
+         download-size="24"
+         install-size="70"
+         version="7.1.100.202204200013"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.cdt.testsrunner.tap"
+         download-size="20"
+         install-size="61"
+         version="1.1.100.202204200013"
+         unpack="false"/>
+
+</feature>

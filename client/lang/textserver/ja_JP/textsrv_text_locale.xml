@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="Shift_JIS" standalone="yes"?>
+<!--
+===============================================================================
+                Copyright (c) 2008 Siemens PLM Software
+                   Unpublished - All Rights Reserved
+===============================================================================
+File description:
+
+            Module: TextServer
+
+            XML File defining ___ module text/error messages.
+            This was previously done in UIH/UIL/VIL format.
+ -->
+<!-- This file contains only translatable resources. -->
+<textsrv filename="textsrv_text_locale.xml">
+
+    <!-- SECTION LANGUAGE DISPLAY NAME                                          -->
+    <!-- Defines the localized name for each out-of-the-box language.           -->
+    <!-- If a customization is done, this file and all the same-named files for -->
+    <!-- all other languages (or at least the ones of interest to the customer) -->
+    <!-- need to be enriched to provide this information.                       -->
+    <!-- In the example of dk_DA, the addition would be:                        -->
+    <!-- <key id="textsrv_localeName_da_DK">Danish</key>                        -->
+    <key id="textsrv_localeName_cs_CZ">チェコ語</key>
+    <key id="textsrv_localeName_de_DE">ドイツ語</key>
+    <key id="textsrv_localeName_es_ES">スペイン語</key>
+    <key id="textsrv_localeName_en_US">英語</key>
+    <key id="textsrv_localeName_fr_FR">フランス語</key>
+    <key id="textsrv_localeName_it_IT">イタリア語</key>
+    <key id="textsrv_localeName_ja_JP">日本語</key>
+    <key id="textsrv_localeName_ko_KR">韓国語</key>
+    <key id="textsrv_localeName_pl_PL">ポーランド語</key>
+    <key id="textsrv_localeName_pt_BR">ポルトガル語</key>
+    <key id="textsrv_localeName_ru_RU">ロシア語</key>
+    <key id="textsrv_localeName_zh_CN">簡体字中国語</key>
+    <key id="textsrv_localeName_zh_TW">繁体字中国語</key>
+    <!-- END OF SECTION -->
+
+    <key id="textsrv_dbEncodingName_NO_SUPPORT">サポートされていません</key>
+
+    <key id="textsrv_defaultLocale">(デフォルトロケール)</key>
+
+    <key id="textsrv_TranslationStatus_Name_M">マスタ</key>
+    <key id="textsrv_TranslationStatus_Name_A">承認済み</key>
+    <key id="textsrv_TranslationStatus_Name_P">保留</key>
+    <key id="textsrv_TranslationStatus_Name_R">レビュー中</key>
+    <key id="textsrv_TranslationStatus_Name_I">無効</key>
+    <key id="textsrv_TranslationStatus_Description_M">これはマスタ翻訳であることを示します。</key>
+    <key id="textsrv_TranslationStatus_Description_A">翻訳が許可されたことを示します。</key>
+    <key id="textsrv_TranslationStatus_Description_P">翻訳許可がペンディングであることを示します。</key>
+    <key id="textsrv_TranslationStatus_Description_R">翻訳許可がレビュープロセスにあることを示します。</key>
+    <key id="textsrv_TranslationStatus_Description_I">翻訳が無効であることを示します。</key>
+
+</textsrv>

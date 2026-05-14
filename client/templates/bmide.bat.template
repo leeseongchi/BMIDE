@@ -1,0 +1,27 @@
+@echo off
+setlocal
+title Teamcenter Business Modeler IDE
+
+if not defined TC_ROOT set TC_ROOT=~your_tcroot_dir~
+
+if not defined IIOP_SERVER_PATH set IIOP_SERVER_PATH=~your_iiopserver_dir~
+
+if not defined HTTP_SERVER_PATH set HTTP_SERVER_PATH=~your_httpserver_dir~
+
+if exist "%TC_ROOT%\install\tem_init.bat" call "%TC_ROOT%\install\tem_init.bat"
+
+set JRE_HOME=~your_jre_home_dir~
+set JAVA_HOME=~your_java_home_dir~
+set JDK_HOME=~your_jdk_home_dir~
+set FMS_HOME=~your_fms_home_dir~
+
+set PATH=%JRE_HOME%\bin;%JDK_HOME%\bin;%TC_ROOT%\lib;%FMS_HOME%\bin;%FMS_HOME%\lib;%FMS_HOME%;%PATH%
+
+@echo Starting Teamcenter Business Modeler IDE...
+IF EXIST BusinessModelerIDE.exe (
+start BusinessModelerIDE.exe %*
+) ELSE (
+start %TC_ROOT%\bmide\client\BusinessModelerIDE.exe %*
+)
+
+endlocal

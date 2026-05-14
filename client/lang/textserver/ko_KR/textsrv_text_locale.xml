@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="EUC-KR" standalone="yes"?>
+<!--
+===============================================================================
+                Copyright (c) 2008 Siemens PLM Software
+                   Unpublished - All Rights Reserved
+===============================================================================
+File description:
+
+            Module: TextServer
+
+            XML File defining ___ module text/error messages.
+            This was previously done in UIH/UIL/VIL format.
+ -->
+<!-- This file contains only translatable resources. -->
+<textsrv filename="textsrv_text_locale.xml">
+
+    <!-- SECTION LANGUAGE DISPLAY NAME                                          -->
+    <!-- Defines the localized name for each out-of-the-box language.           -->
+    <!-- If a customization is done, this file and all the same-named files for -->
+    <!-- all other languages (or at least the ones of interest to the customer) -->
+    <!-- need to be enriched to provide this information.                       -->
+    <!-- In the example of dk_DA, the addition would be:                        -->
+    <!-- <key id="textsrv_localeName_da_DK">Danish</key>                        -->
+    <key id="textsrv_localeName_cs_CZ">체코어</key>
+    <key id="textsrv_localeName_de_DE">독일어</key>
+    <key id="textsrv_localeName_es_ES">스페인어</key>
+    <key id="textsrv_localeName_en_US">영어</key>
+    <key id="textsrv_localeName_fr_FR">프랑스어</key>
+    <key id="textsrv_localeName_it_IT">이탈리아어</key>
+    <key id="textsrv_localeName_ja_JP">일본어</key>
+    <key id="textsrv_localeName_ko_KR">한국어</key>
+    <key id="textsrv_localeName_pl_PL">폴란드어</key>
+    <key id="textsrv_localeName_pt_BR">포르투갈어</key>
+    <key id="textsrv_localeName_ru_RU">러시아어</key>
+    <key id="textsrv_localeName_zh_CN">중국어 간체</key>
+    <key id="textsrv_localeName_zh_TW">중국어 번체</key>
+    <!-- END OF SECTION -->
+
+    <key id="textsrv_dbEncodingName_NO_SUPPORT">지원되지 않습니다.</key>
+
+    <key id="textsrv_defaultLocale">(기본 로케일)</key>
+
+    <key id="textsrv_TranslationStatus_Name_M">마스터</key>
+    <key id="textsrv_TranslationStatus_Name_A">승인</key>
+    <key id="textsrv_TranslationStatus_Name_P">보류</key>
+    <key id="textsrv_TranslationStatus_Name_R">검토 중</key>
+    <key id="textsrv_TranslationStatus_Name_I">잘못됨</key>
+    <key id="textsrv_TranslationStatus_Description_M">마스터 변환임을 나타냅니다.</key>
+    <key id="textsrv_TranslationStatus_Description_A">변환이 승인되었음을 나타냅니다.</key>
+    <key id="textsrv_TranslationStatus_Description_P">변환 승인이 보류 중임을 나타냅니다.</key>
+    <key id="textsrv_TranslationStatus_Description_R">변환 승인이 검토 중임을 나타냅니다.</key>
+    <key id="textsrv_TranslationStatus_Description_I">변환이 잘못되었음을 나타냅니다.</key>
+
+</textsrv>

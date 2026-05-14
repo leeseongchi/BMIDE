@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.teamcenter.bmide.product"
+      label="%featureName"
+      version="2406"
+      provider-name="%providerName"
+      plugin="com.teamcenter.bmide.branding"
+      image="icons/bmide_app_128.png">
+
+   <description>
+      %featureDescription
+   </description>
+
+   <copyright>
+      %featureCopyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %featureLicense
+   </license>
+
+   <plugin
+         id="com.teamcenter.bmide.base.core"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.basemodel"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.base.ui"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.branding"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.helpguide"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.install"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.mergesample.customer"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.migration.core"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.migration.ui"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.options.core"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.options.ui"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.rbf.ui"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.server.antlr"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.foundation.core"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.server.soa"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.server.ui"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.server.ui.cfgext"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.server.uml.ui"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.server.uml.viewmodel"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.tcplmxml"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.compare.core"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.compare.samples.ui"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.compare.ui"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.graphmodel"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.ide.base"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.ide.basemodel"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.ide.basemodel.edit"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.ide.ui"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.rac.external"
+         download-size="0"
+         install-size="0"
+         version="2406"/>
+
+   <plugin
+         id="com.teamcenter.umlmodel"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.server.typecollision"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+
+   <plugin
+         id="TcSoaBusinessModelerStrong"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="TcSoaBusinessModelerTypes"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="TcSoaClient"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="TcSoaCommon"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="TcSoaCoreStrong"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="TcSoaCoreTypes"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="TcSoaQueryStrong"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="TcSoaQueryTypes"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="TcSoaStrongModel"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.codegen"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.codegen.ui"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.codegen.build"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.soa.services.ui"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.docmgt.core"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.docmgt.ui"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.datamodel"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.audit.core"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.audit.ui"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.search"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+   <plugin
+         id="com.teamcenter.bmide.search.ui"
+         download-size="0"
+         install-size="0"
+         version="2406"
+         unpack="false"/>
+
+</feature>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.6"?>
+<!--
+@<COPYRIGHT>@
+==================================================
+Copyright 2011.
+Siemens Product Lifecycle Management Software Inc.
+All Rights Reserved. 
+==================================================
+@<COPYRIGHT>@
+-->
+<plugin>
+    <extension point="org.eclipse.ui.themes">
+        <!-- ************************* -->
+        <colorDefinition id="com.teamcenter.rac.ui.ACTIVE_BUTTON_BG_END" label="%ACTIVE_BUTTON_BG_END" value="145,213,234"/>
+        <colorDefinition id="com.teamcenter.rac.ui.ACTIVE_BUTTON_BG_MIDDLE" label="%ACTIVE_BUTTON_BG_MIDDLE" value="117,165,186"/>
+        <colorDefinition id="com.teamcenter.rac.ui.ACTIVE_BUTTON_BG_START" label="%ACTIVE_BUTTON_BG_START" value="88,114,139"/>
+        <!-- ************************* -->
+        <colorDefinition id="com.teamcenter.rac.ui.COLOR_GENERAL_BACKGROUND" label="COLOR_GENERAL_BACKGROUND" value="209, 209, 210"/>
+        <colorDefinition id="com.teamcenter.rac.ui.COLOR_GENERAL_FOREGROUND" label="COLOR_GENERAL_FOREGROUND" value="0, 0, 0"/>
+        <!-- ************************* -->
+        <colorDefinition id="com.teamcenter.rac.ui.COLOR_LIST_BACKGROUND" label="COLOR_LIST_BACKGROUND" value="255,255,255"/>
+        <colorDefinition id="com.teamcenter.rac.ui.COLOR_LIST_FOREGROUND" label="COLOR_LIST_FOREGROUND" value="0,0,0"/>
+        <colorDefinition id="com.teamcenter.rac.ui.COLOR_LIST_SELECTION" label="COLOR_LIST_SELECTION" value="218,218,218"/>
+        <!-- ************************* -->
+        <colorDefinition id="com.teamcenter.rac.ui.COLOR_TITLE_BACKGROUND" label="COLOR_TITLE_BACKGROUND" value="0,0,0"/>
+        <colorDefinition id="com.teamcenter.rac.ui.COLOR_TITLE_BACKGROUND_GRADIENT" label="COLOR_TITLE_BACKGROUND_GRADIENT" value="145,213,234"/>
+        <colorDefinition id="com.teamcenter.rac.ui.COLOR_TITLE_INACTIVE_BACKGROUND_GRADIENT" label="COLOR_TITLE_INACTIVE_BACKGROUND_GRADIENT" value="117,165,186"/>
+        <!-- ************************* -->
+        <colorDefinition id="com.teamcenter.rac.ui.COLOR_WIDGET_BACKGROUND" label="COLOR_WIDGET_BACKGROUND" value="217,218,220"/>
+        <!-- ************************* -->
+        <colorDefinition id="com.teamcenter.rac.ui.COOLBAR_BG_END" label="COOLBAR_BG_END" value="111,112,114"/>
+        <colorDefinition id="com.teamcenter.rac.ui.COOLBAR_BG_START" label="COOLBAR_BG_START" value="87,87,87"/>
+        <!-- ************************* -->
+        <colorDefinition id="com.teamcenter.rac.ui.FOLDER_TAB_BORDER" label="FOLDER_TAB_BORDER" value="50,50,50"/>
+        <colorDefinition id="com.teamcenter.rac.ui.FOLDER_TAB_BUTTON_FILL_HOVER" label="FOLDER_TAB_BUTTON_FILL_HOVER" value="40, 130, 160"/>
+        <colorDefinition id="com.teamcenter.rac.ui.FOLDER_TAB_BUTTON_FILL_NORMAL" label="FOLDER_TAB_BUTTON_FILL_NORMAL" value="255,255,255"/>
+        <colorDefinition id="com.teamcenter.rac.ui.FOLDER_TAB_BUTTON_TEXT" label="FOLDER_TAB_BUTTON_TEXT" value="0,0,0"/>
+        <!-- ************************* -->
+        <colorDefinition id="com.teamcenter.rac.ui.FOLDER_TAB_TOOLBAR_BACKGROUND_COLOR" label="FOLDER_TAB_TOOLBAR_BACKGROUND_COLOR" value="188,189,191"/>
+        <colorDefinition id="com.teamcenter.rac.ui.FOLDER_TAB_TOOLBAR_FOREGROUND_COLOR" label="FOLDER_TAB_TOOLBAR_FOREGROUND_COLOR" value="0,0,0"/>
+        <!-- ************************* -->
+        <colorDefinition id="com.teamcenter.rac.ui.FOLDER_TRIM_HIGHLIGHT" label="FOLDER_TRIM_HIGHLIGHT" value="0,0,0"/>
+        <colorDefinition id="com.teamcenter.rac.ui.FOLDER_TRIM_UNHIGHLIGHT" label="FOLDER_TRIM_UNHIGHLIGHT" value="209,209,210"/>
+        <!-- ************************* -->
+        <colorDefinition id="com.teamcenter.rac.ui.HEADER_BG_END" label="HEADER_BG_END" value="197,198,200"/>
+        <colorDefinition id="com.teamcenter.rac.ui.HEADER_BG_START" label="HEADER_BG_START" value="240,240,240"/>
+
+        <!-- ************************* -->
+        <!-- In the ..._COLORS values RGB=-1,-1,-1 Indicates use current COLOR_GENERAL_BACKGROUND -->
+        <!-- In the ..._COLORS values RGB=-2,-2,-2 Indicates use current COLOR_GENERAL_FOREGROUND -->
+        <!-- In the ..._COLORS values RGB=-3,-3,-3 Indicates use current FOLDER_TRIM_HIGHLIGHT -->
+        <!-- In the ..._COLORS values RGB=-4,-4,-4 Indicates use current FOLDER_TAB_TOOLBAR_BACKGROUND_COLOR -->
+        <!-- In the ..._COLORS values RGB=-5,-5,-5 Indicates use current FOLDER_TAB_TOOLBAR_FOREGROUND_COLOR -->
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.APP_PERPSECTIVE_HEADER_GRADIENT_COLORS" value="255,255,255; 215,216,218 ; 189,190,191 ; 248,248,248"/>
+        <data name="com.teamcenter.rac.ui.APP_PERPSECTIVE_HEADER_GRADIENT_PERCENTS" value="5, 30, 100"/>
+        <data name="com.teamcenter.rac.ui.APP_PERSPECTIVE_HEADER_GRADIENT_VERTICAL_ENABLED" value="true"/>
+     <!--data name="com.teamcenter.rac.ui.APP_PERSPECTIVE_HEADER_IMAGE" value="icons/button.png"/-->
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.BUTTON_CLICKED_IMAGE" value="icons/button_clicked.png"/>
+        <data name="com.teamcenter.rac.ui.BUTTON_GRADIENT_PERCENT" value="45"/>
+        <data name="com.teamcenter.rac.ui.BUTTON_IMAGE" value="icons/button.png"/>
+        <data name="com.teamcenter.rac.ui.BUTTON_LIGHT_IMAGE" value="icons/button.png"/>
+     <!--data name="com.teamcenter.rac.ui.BUTTON_SELECTED_IMAGE" value="icons/button_selected.png"/-->
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_AREA_GRADIENT_COLORS" value="-4,-4,-4"/>
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_AREA_GRADIENT_PERCENTS" value="100"/>
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_AREA_GRADIENT_VERTICAL_ENABLED" value="true"/>
+     <!--data name="com.teamcenter.rac.ui.FOLDER_TAB_AREA_IMAGE" value="icons/button.png"/-->
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_AREA_OVERFLOW_GRADIENT_COLORS" value="-4,-4,-4"/>
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_AREA_OVERFLOW_GRADIENT_PERCENTS" value="100"/>
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_AREA_OVERFLOW_GRADIENT_VERTICAL_ENABLED" value="false"/>
+     <!--data name="com.teamcenter.rac.ui.FOLDER_TAB_AREA_OVERFLOW_IMAGE" value="icons/button.png"/-->
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_AREA_OVERFLOW_FOREGROUND_COLOR" value="-5,-5,-5"/>
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_AREA_OVERFLOW_TEXT_COLOR" value="255,255,255"/>
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_AREA_OPT_DRAW_TABS_ON_BOTTOM_ENABLED" value="false"/>
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_AREA_OPT_FILL_ENABLED" value="true"/>
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_AREA_OPT_TAB_OFFSET_WHEN_SELECTED" value="0"/>
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_HOVER_GRADIENT_COLORS" value="137,205,228 ; 75,95,123 ; 81,108,137 ; 137,205,228"/>
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_HOVER_GRADIENT_PERCENTS" value="30,60,100"/>
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_HOVER_GRADIENT_VERTICAL_ENABLED" value="true"/>
+     <!--data name="com.teamcenter.rac.ui.FOLDER_TAB_HOVER_IMAGE" value="icons/button_selected.png"/-->
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_HOVER_TEXT_COLOR" value="255,255,255"/>
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_MENU_BACKGROUND_COLOR" value="-4,-4,-4"/>
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_MENU_FOREGROUND_COLOR" value="-5,-5,-5"/>
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_SELECTED_GRADIENT_COLORS" value="-3,-3,-3 ; -3,-3,-3 ; -3,-3,-3 ; -3,-3,-3"/>
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_SELECTED_GRADIENT_PERCENTS" value="15, 15, 100"/>
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_SELECTED_GRADIENT_VERTICAL_ENABLED" value="true"/>
+     <!--data name="com.teamcenter.rac.ui.FOLDER_TAB_SELECTED_IMAGE" value="icons/button_selected.png"/-->
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_SELECTED_TEXT_COLOR" value="255,255,255"/>
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_UNSELECTED_GRADIENT_COLORS" value="-1,-1,-1 ; -1,-1,-1 ; -1,-1,-1 ; -1,-1,-1"/>
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_UNSELECTED_GRADIENT_PERCENTS" value="15, 15, 100"/>
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_UNSELECTED_GRADIENT_VERTICAL_ENABLED" value="true"/>
+     <!--data name="com.teamcenter.rac.ui.FOLDER_TAB_UNSELECTED_IMAGE" value="icons/button.png"/-->
+        <data name="com.teamcenter.rac.ui.FOLDER_TAB_UNSELECTED_TEXT_COLOR" value="-2,-2,-2"/>
+        <!-- -->
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.FOLDER_TRIM_BORDER_SIZE" value="0"/>
+        <data name="com.teamcenter.rac.ui.FOLDER_TRIM_HIGHLIGHT_SIZE" value="3"/>
+        <data name="com.teamcenter.rac.ui.FOLDER_TRIM_MARGIN_SIZE" value="3"/>
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.MULTI_FORWARD_BUTTON_DARK_IMAGE" value="icons/multiforward_16.png"/>
+        <data name="com.teamcenter.rac.ui.MULTI_FORWARD_BUTTON_LIGHT_IMAGE" value="icons/multiforward_rev_16.png"/>
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.NAV_BUTTON_HOVER_GRADIENT_COLORS" value="137,205,228; 75,95,123; 81,108,137; 137,205,228"/>
+        <data name="com.teamcenter.rac.ui.NAV_BUTTON_HOVER_GRADIENT_PERCENTS" value="30,60,100"/>
+        <data name="com.teamcenter.rac.ui.NAV_BUTTON_HOVER_GRADIENT_VERTICAL_ENABLED" value="true"/>
+     <!--data name="com.teamcenter.rac.ui.NAV_BUTTON_HOVER_IMAGE" value="icons/button_selected.png"/-->
+        <data name="com.teamcenter.rac.ui.NAV_BUTTON_HOVER_TEXT_COLOR" value="255,255,255"/>
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.NAV_BUTTON_SELECTED_GRADIENT_COLORS" value="111,112,114; 75,95,123; 81,108,137; 137,205,228"/>
+        <data name="com.teamcenter.rac.ui.NAV_BUTTON_SELECTED_GRADIENT_PERCENTS" value="40,60,100"/>
+        <data name="com.teamcenter.rac.ui.NAV_BUTTON_SELECTED_GRADIENT_VERTICAL_ENABLED" value="true"/>
+     <!--data name="com.teamcenter.rac.ui.NAV_BUTTON_SELECTED_IMAGE" value="icons/button_selected.png"/-->
+        <data name="com.teamcenter.rac.ui.NAV_BUTTON_SELECTED_TEXT_COLOR" value="255,255,255"/>
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.NAV_BUTTON_UNSELECTED_GRADIENT_COLORS" value="111,112,114"/>
+        <data name="com.teamcenter.rac.ui.NAV_BUTTON_UNSELECTED_GRADIENT_PERCENTS" value="100"/>
+        <data name="com.teamcenter.rac.ui.NAV_BUTTON_UNSELECTED_GRADIENT_VERTICAL_ENABLED" value="true"/>
+     <!--data name="com.teamcenter.rac.ui.NAV_BUTTON_UNSELECTED_IMAGE" value="icons/button.png"/-->
+        <data name="com.teamcenter.rac.ui.NAV_BUTTON_UNSELECTED_TEXT_COLOR" value="255,255,255"/>
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.NAV_PANE_GRADIENT_COLORS" value="111,112,114"/>
+        <data name="com.teamcenter.rac.ui.NAV_PANE_GRADIENT_PERCENTS" value="100"/>
+        <data name="com.teamcenter.rac.ui.NAV_PANE_GRADIENT_VERTICAL_ENABLED" value="true"/>
+     <!--data name="com.teamcenter.rac.ui.NAV_PANE_IMAGE" value="icons/button.png"/-->
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.NAV_PANE_HEADER_DND_HOVER_FULL_COLOR" value="0,0,255"/>
+        <data name="com.teamcenter.rac.ui.NAV_PANE_HEADER_DND_HOVER_LIGHT_COLOR" value="0,0,100"/>
+        <data name="com.teamcenter.rac.ui.NAV_PANE_SASH_BACKGROUND_COLOR" value="255, 255, 255"/>
+        <data name="com.teamcenter.rac.ui.NAV_PANE_SECTION_HEADER_BORDER_COLOR" value="0,0,0"/>
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.NAV_PANE_SECTION_GRADIENT_COLORS" value="111,112,114"/>
+        <data name="com.teamcenter.rac.ui.NAV_PANE_SECTION_GRADIENT_PERCENTS" value="100"/>
+        <data name="com.teamcenter.rac.ui.NAV_PANE_SECTION_GRADIENT_VERTICAL_ENABLED" value="true"/>
+     <!--data name="com.teamcenter.rac.ui.NAV_PANE_SECTION_IMAGE" value="icons/button.png"/-->
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.SHELL_COOL_BAR_FILL_ENABLED" value="false"/>
+        <data name="com.teamcenter.rac.ui.SHELL_COOL_BAR_GRADIENT_COLORS" value="111,112,114; 87,87,87; 28,28,28"/>
+        <data name="com.teamcenter.rac.ui.SHELL_COOL_BAR_GRADIENT_PERCENTS" value="50,100"/>
+        <data name="com.teamcenter.rac.ui.SHELL_COOL_BAR_GRADIENT_VERTICAL_ENABLED" value="true"/>
+     <!--data name="com.teamcenter.rac.ui.SHELL_COOL_BAR_IMAGE" value="icons/button.png"/-->
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.SHELL_USE_SYSTEM_GENERAL_FOREGROUND" value="false"/>
+        <data name="com.teamcenter.rac.ui.SHELL_USE_SYSTEM_GENERAL_BACKGROUND" value="false"/>
+        <!-- ************************* -->
+        <data name="com.teamcenter.rac.ui.VIEW_ALTERNATE_ROW_DK_FG_BACKGROUND_COLOR"  value="191,214,248"/>
+        <data name="com.teamcenter.rac.ui.VIEW_ALTERNATE_ROW_LT_FG_BACKGROUND_COLOR"  value="10,10,10"/>
+        <!-- ************************* -->
+        <!--
+             orig
+             #   #  name             'bright'    'darker'
+             01  09 blue             0,0,255     0,149,209
+             02  01 yellow           255,255,0   255,243,0
+             03  05 red              255,0,0     237,28,36
+             04  11 green            0,255,0     80,185,72
+             05  03 orange           255,127,0   247,147,56
+             06  07 violet           186,0,255   137,40,145
+             07  10 blue-green       0,174,174   0,159,139
+             08  02 yellow-orange    254,179,0   255,191,80
+             09  06 red-violet       204,0,175   159,0,100
+             10  12 yellow-green     182,255,0   191,215,48
+             11  08 blue-violet      115,8,165   94,108,179
+             12  04 red-orange       255,70,0    243,112,60
+        -->
+        <data name="com.teamcenter.rac.ui.NETWORK_COLORS" value="41,205,200 ; 255,191,80 ; 149,58,255 ; 160,211,42 ; 247,128,56 ; 154,219,245 ; 217,17,167 ; 204,241,73 ; 52,95,206 ; 202,145,0 ; 255,243,0 ; 218,9,43"/>
+        <data name="com.teamcenter.rac.ui.NETWORK_PATTERNS" value="icons/Patterns/Patten_01.png;icons/Patterns/Patten_02.png;icons/Patterns/Patten_03.png;icons/Patterns/Patten_04.png;icons/Patterns/Patten_05.png;icons/Patterns/Patten_06.png;icons/Patterns/Patten_07.png;icons/Patterns/Patten_08.png;icons/Patterns/Patten_09.png;icons/Patterns/Patten_10.png;icons/Patterns/Patten_11.png;icons/Patterns/Patten_12.png"/>
+         <!-- *** Add to replace the LaunchPad Options *** -->
+        <data name="com.teamcenter.rac.ui.CONTENT_GRADIENT_COLORS" value="-1,-1,-1;0,0,0"/>
+        <data name="com.teamcenter.rac.ui.CONTENT_GRADIENT_PERCENTS" value="100"/>
+        <!-- ************************* -->
+        
+        <!-- ************************* -->
+        <colorDefinition id="com.teamcenter.rac.aifrcp.TREE_SELECTED_INACTIVE_FOREGROUND" label="TREE_SELECTED_INACTIVE_FOREGROUND" value="82,82,82"/>
+        <colorDefinition id="com.teamcenter.rac.aifrcp.TREE_SELECTED_INACTIVE_BACKGROUND" label="TREE_SELECTED_INACTIVE_BACKGROUND" value="218,218,218"/>
+        <!-- 
+            Black Polycarbonate Gradient (Selected):
+                     RGB:
+                Percents:
+
+            Black Polycarbonate Gradient (UnSelected):
+                     RGB:
+                Percents:
+
+            Blue Polycarbonate Gradient (Selected):
+                     RGB: 125,127,125;75,95,123;81,108,137;137,205,228
+                Percents: 40,60,100
+
+            Blue Polycarbonate Gradient (UnSelected):
+                     RGB: 111,112,114;87,87,87;28,28,28
+                Percents: 50,100
+
+            Special Color Codes:
+                    RGB: -1,-1,-1 - Current general Background (com.teamcenter.rac.ui.COLOR_GENERAL_BACKGROUND)
+                    RGB: -2,-2,-2 - Current general Foreground (com.teamcenter.rac.ui.COLOR_GENERAL_FOREGROUND)
+                    RGB: -3,-3,-3 - Current Folder Trim Highlight (com.teamcenter.rac.ui.FOLDER_TRIM_HIGHLIGHT)
+                    RGB: -4,-4,-4 - Current Toolbar Background (com.teamcenter.rac.ui.FOLDER_TAB_TOOLBAR_BACKGROUND_COLOR)
+                    RGB: -5,-5,-5 - Current Toolbar Foreground (com.teamcenter.rac.ui.FOLDER_TAB_TOOLBAR_FOREGROUND_COLOR)
+        -->
+        <!-- ************************* -->
+        <theme id="com.teamcenter.siemens.theme" name="Siemens Standard Color Theme">
+            <colorOverride id="org.eclipse.ui.workbench.ACTIVE_NOFOCUS_TAB_BG_END" value="86,86,86"/>
+            <colorOverride id="org.eclipse.ui.workbench.ACTIVE_NOFOCUS_TAB_BG_START" value="111,112,114"/>
+            <colorOverride id="org.eclipse.ui.workbench.ACTIVE_TAB_BG_END" value="28,28,28"/>
+            <colorOverride id="org.eclipse.ui.workbench.ACTIVE_TAB_BG_START" value="111,112,114"/>
+            <colorOverride id="org.eclipse.ui.workbench.ACTIVE_TAB_TEXT_COLOR" value="255,255,255"/>
+        </theme>
+    </extension>
+</plugin>

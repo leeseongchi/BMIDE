@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<TcBusinessData xmlns="http://teamcenter.com/BusinessModel/TcBusinessData" batchXSDVersion="1.0" Date="" >
+<Change>
+	
+	<!-- LOV Type: ListOfValuesChar -->
+	<TcLOV description="The Alphabet" lovType="ListOfValuesChar" name="Ab0Alphabet" usage="Exhaustive" isManagedExternally="true" >
+		<TcLOVValue conditionName="isTrue" description="" value="A"/>
+		<TcLOVValue conditionName="isTrue" description="" value="B"/>
+		<TcLOVValue conditionName="isTrue" description="" value="C"/>
+		<TcLOVValue conditionName="isTrue" description="" value="D"/>
+		<TcLOVValue conditionName="isTrue" description="" value="E"/>
+		<TcLOVValue conditionName="isTrue" description="" value="F"/>
+		<TcLOVValue conditionName="isTrue" description="" value="G"/>
+		<TcLOVValue conditionName="isTrue" description="" value="H"/>
+		<TcLOVValue conditionName="isTrue" description="" value="I"/>
+		<TcLOVValue conditionName="isTrue" description="" value="J"/>
+		<TcLOVValue conditionName="isTrue" description="" value="K"/>
+		<TcLOVValue conditionName="isTrue" description="" value="L"/>
+		<TcLOVValue conditionName="isTrue" description="" value="M"/>
+		<TcLOVValue conditionName="isTrue" description="" value="N"/>
+		<TcLOVValue conditionName="isTrue" description="" value="O"/>
+		<TcLOVValue conditionName="isTrue" description="" value="P"/>
+		<TcLOVValue conditionName="isTrue" description="" value="Q"/>
+		<TcLOVValue conditionName="isTrue" description="" value="R"/>
+		<TcLOVValue conditionName="isTrue" description="" value="S"/>
+		<TcLOVValue conditionName="isTrue" description="" value="T"/>
+		<TcLOVValue conditionName="isTrue" description="" value="U"/>
+		<TcLOVValue conditionName="isTrue" description="" value="V"/>
+		<TcLOVValue conditionName="isTrue" description="" value="W"/>
+		<TcLOVValue conditionName="isTrue" description="" value="X"/>
+		<TcLOVValue conditionName="isTrue" description="" value="Y"/>
+		<TcLOVValue conditionName="isTrue" description="" value="Z"/>
+	</TcLOV>
+	
+	<!-- LOV Type: ListOfValuesDate -->
+	<TcLOV description="Aos0DateLovProjectA" lovType="ListOfValuesDate" name="Ab0DateLOV" usage="Exhaustive" isManagedExternally="true" >
+		<TcLOVValue conditionName="isTrue" description="" value="18-Oct-2010 19:34"/>
+		<TcLOVValue conditionName="isTrue" description="" value="19-Oct-2010 19:35"/>
+		<TcLOVValue conditionName="isTrue" description="" value="20-Oct-2010 19:35"/>
+		<TcLOVValue conditionName="isTrue" description="" value="21-Oct-2010 19:35"/>
+   </TcLOV>
+   
+   <!-- LOV Type: ListOfValuesDouble -->
+	<TcLOV description="" lovType="ListOfValuesDouble" name="Ab0DoubleLOV" usage="Suggestive" isManagedExternally="true" >
+		<TcLOVValue conditionName="isTrue" description="" value="111.111"/>
+		<TcLOVValue conditionName="isTrue" description="" value="222.222"/>
+		<TcLOVValue conditionName="isTrue" description="" value="333.333"/>
+		<TcLOVValue conditionName="isTrue" description="" value="444.444"/>
+	</TcLOV>
+	
+	<!-- LOV Type: ListOfValuesInteger -->
+	<TcLOV description="List of Status types" lovType="ListOfValuesInteger" name="Ab0IntLOV" usage="Exhaustive" isManagedExternally="true" >
+		<TcLOVValue conditionName="isTrue" description="Not Started"  value="0"/>
+		<TcLOVValue conditionName="isTrue" description="In Progress"  value="1"/>
+		<TcLOVValue conditionName="isTrue" description="Needs Attention"  value="2"/>
+		<TcLOVValue conditionName="isTrue" description="Complete"  value="3"/>
+		<TcLOVValue conditionName="isTrue" description="Abandoned"  value="4"/>
+		<TcLOVValue conditionName="isTrue" description="Late"  value="5"/>
+	</TcLOV>
+	
+	<!-- LOV Type: ListOfValuesString -->
+	<TcLOV description="LOV Containing 100 Values" lovType="ListOfValuesString" name="Ab0HunderedValueStringLOV" usage="Exhaustive" isManagedExternally="true" >
+		<TcLOVValue conditionName="isTrue" description="L1 Desc" value="L1"/>
+		<TcLOVValue conditionName="isTrue" description="L2 Desc" value="L2"/>
+		<TcLOVValue conditionName="isTrue" description="L3 Desc" value="L3"/>
+		<TcLOVValue conditionName="isTrue" description="L4 Desc" value="L4"/>
+		<TcLOVValue conditionName="isTrue" description="L5 Desc" value="L5"/>
+		<TcLOVValue conditionName="isTrue" description="L6 Desc" value="L6"/>
+		<TcLOVValue conditionName="isTrue" description="L7 Desc" value="L7"/>
+		<TcLOVValue conditionName="isTrue" description="L8 Desc" value="L8"/>
+		<TcLOVValue conditionName="isTrue" description="L9 Desc" value="L9"/>
+		<TcLOVValue conditionName="isTrue" description="L10 Desc" value="L10"/>
+		<TcLOVValue conditionName="isTrue" description="L11 Desc" value="L11"/>
+		<TcLOVValue conditionName="isTrue" description="L12 Desc" value="L12"/>
+		<TcLOVValue conditionName="isTrue" description="L13 Desc" value="L13"/>
+		<TcLOVValue conditionName="isTrue" description="L14 Desc" value="L14"/>
+		<TcLOVValue conditionName="isTrue" description="L15 Desc" value="L15"/>
+		<TcLOVValue conditionName="isTrue" description="L16 Desc" value="L16"/>
+		<TcLOVValue conditionName="isTrue" description="L17 Desc" value="L17"/>
+		<TcLOVValue conditionName="isTrue" description="L18 Desc" value="L18"/>
+		<TcLOVValue conditionName="isTrue" description="L19 Desc" value="L19"/>
+		<TcLOVValue conditionName="isTrue" description="L20 Desc" value="L20"/>
+		<TcLOVValue conditionName="isTrue" description="L21 Desc" value="L21"/>
+		<TcLOVValue conditionName="isTrue" description="L22 Desc" value="L22"/>
+		<TcLOVValue conditionName="isTrue" description="L23 Desc" value="L23"/>
+		<TcLOVValue conditionName="isTrue" description="L24 Desc" value="L24"/>
+		<TcLOVValue conditionName="isTrue" description="L25 Desc" value="L25"/>
+		<TcLOVValue conditionName="isTrue" description="L26 Desc" value="L26"/>
+		<TcLOVValue conditionName="isTrue" description="L27 Desc" value="L27"/>
+		<TcLOVValue conditionName="isTrue" description="L28 Desc" value="L28"/>
+		<TcLOVValue conditionName="isTrue" description="L29 Desc" value="L29"/>
+		<TcLOVValue conditionName="isTrue" description="L30 Desc" value="L30"/>
+		<TcLOVValue conditionName="isTrue" description="L31 Desc" value="L31"/>
+		<TcLOVValue conditionName="isTrue" description="L32 Desc" value="L32"/>
+		<TcLOVValue conditionName="isTrue" description="L33 Desc" value="L33"/>
+		<TcLOVValue conditionName="isTrue" description="L34 Desc" value="L34"/>
+		<TcLOVValue conditionName="isTrue" description="L35 Desc" value="L35"/>
+		<TcLOVValue conditionName="isTrue" description="L36 Desc" value="L36"/>
+		<TcLOVValue conditionName="isTrue" description="L37 Desc" value="L37"/>
+		<TcLOVValue conditionName="isTrue" description="L38 Desc" value="L38"/>
+		<TcLOVValue conditionName="isTrue" description="L39 Desc" value="L39"/>
+		<TcLOVValue conditionName="isTrue" description="L40 Desc" value="L40"/>
+		<TcLOVValue conditionName="isTrue" description="L41 Desc" value="L41"/>
+		<TcLOVValue conditionName="isTrue" description="L42 Desc" value="L42"/>
+		<TcLOVValue conditionName="isTrue" description="L43 Desc" value="L43"/>
+		<TcLOVValue conditionName="isTrue" description="L44 Desc" value="L44"/>
+		<TcLOVValue conditionName="isTrue" description="L45 Desc" value="L45"/>
+		<TcLOVValue conditionName="isTrue" description="L46 Desc" value="L46"/>
+		<TcLOVValue conditionName="isTrue" description="L47 Desc" value="L47"/>
+		<TcLOVValue conditionName="isTrue" description="L48 Desc" value="L48"/>
+		<TcLOVValue conditionName="isTrue" description="L49 Desc" value="L49"/>
+		<TcLOVValue conditionName="isTrue" description="L50 Desc" value="L50"/>
+		<TcLOVValue conditionName="isTrue" description="L51 Desc" value="L51"/>
+		<TcLOVValue conditionName="isTrue" description="L52 Desc" value="L52"/>
+		<TcLOVValue conditionName="isTrue" description="L53 Desc" value="L53"/>
+		<TcLOVValue conditionName="isTrue" description="L54 Desc" value="L54"/>
+		<TcLOVValue conditionName="isTrue" description="L55 Desc" value="L55"/>
+		<TcLOVValue conditionName="isTrue" description="L56 Desc" value="L56"/>
+		<TcLOVValue conditionName="isTrue" description="L57 Desc" value="L57"/>
+		<TcLOVValue conditionName="isTrue" description="L58 Desc" value="L58"/>
+		<TcLOVValue conditionName="isTrue" description="L59 Desc" value="L59"/>
+		<TcLOVValue conditionName="isTrue" description="L60 Desc" value="L60"/>
+		<TcLOVValue conditionName="isTrue" description="L61 Desc" value="L61"/>
+		<TcLOVValue conditionName="isTrue" description="L62 Desc" value="L62"/>
+		<TcLOVValue conditionName="isTrue" description="L63 Desc" value="L63"/>
+		<TcLOVValue conditionName="isTrue" description="L64 Desc" value="L64"/>
+		<TcLOVValue conditionName="isTrue" description="L65 Desc" value="L65"/>
+		<TcLOVValue conditionName="isTrue" description="L66 Desc" value="L66"/>
+		<TcLOVValue conditionName="isTrue" description="L67 Desc" value="L67"/>
+		<TcLOVValue conditionName="isTrue" description="L68 Desc" value="L68"/>
+		<TcLOVValue conditionName="isTrue" description="L69 Desc" value="L69"/>
+		<TcLOVValue conditionName="isTrue" description="L70 Desc" value="L70"/>
+		<TcLOVValue conditionName="isTrue" description="L71 Desc" value="L71"/>
+		<TcLOVValue conditionName="isTrue" description="L72 Desc" value="L72"/>
+		<TcLOVValue conditionName="isTrue" description="L73 Desc" value="L73"/>
+		<TcLOVValue conditionName="isTrue" description="L74 Desc" value="L74"/>
+		<TcLOVValue conditionName="isTrue" description="L75 Desc" value="L75"/>
+		<TcLOVValue conditionName="isTrue" description="L76 Desc" value="L76"/>
+		<TcLOVValue conditionName="isTrue" description="L77 Desc" value="L77"/>
+		<TcLOVValue conditionName="isTrue" description="L78 Desc" value="L78"/>
+		<TcLOVValue conditionName="isTrue" description="L79 Desc" value="L79"/>
+		<TcLOVValue conditionName="isTrue" description="L80 Desc" value="L80"/>
+		<TcLOVValue conditionName="isTrue" description="L81 Desc" value="L81"/>
+		<TcLOVValue conditionName="isTrue" description="L82 Desc" value="L82"/>
+		<TcLOVValue conditionName="isTrue" description="L83 Desc" value="L83"/>
+		<TcLOVValue conditionName="isTrue" description="L84 Desc" value="L84"/>
+		<TcLOVValue conditionName="isTrue" description="L85 Desc" value="L85"/>
+		<TcLOVValue conditionName="isTrue" description="L86 Desc" value="L86"/>
+		<TcLOVValue conditionName="isTrue" description="L87 Desc" value="L87"/>
+		<TcLOVValue conditionName="isTrue" description="L88 Desc" value="L88"/>
+		<TcLOVValue conditionName="isTrue" description="L89 Desc" value="L89"/>
+		<TcLOVValue conditionName="isTrue" description="L90 Desc" value="L90"/>
+		<TcLOVValue conditionName="isTrue" description="L91 Desc" value="L91"/>
+		<TcLOVValue conditionName="isTrue" description="L92 Desc" value="L92"/>
+		<TcLOVValue conditionName="isTrue" description="L93 Desc" value="L93"/>
+		<TcLOVValue conditionName="isTrue" description="L94 Desc" value="L94"/>
+		<TcLOVValue conditionName="isTrue" description="L95 Desc" value="L95"/>
+		<TcLOVValue conditionName="isTrue" description="L96 Desc" value="L96"/>
+		<TcLOVValue conditionName="isTrue" description="L97 Desc" value="L97"/>
+		<TcLOVValue conditionName="isTrue" description="L98 Desc" value="L98"/>
+		<TcLOVValue conditionName="isTrue" description="L99 Desc" value="L99"/>
+		<TcLOVValue conditionName="isTrue" description="L100 Desc" value="L100"/>		
+	</TcLOV>
+	
+</Change>   
+</TcBusinessData>

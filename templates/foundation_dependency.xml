@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+@<COPYRIGHT>@
+==================================================
+Copyright 2024.
+Siemens Digital Industries Software.
+All Rights Reserved.
+==================================================
+@<COPYRIGHT>@
+--><TcBusinessDataIncludes ActiveRelease="tc2406" currentTemplateVersion="2312.0_0" displayName="Foundation" enableOpsDataDeploy="false" guid="8C061DD51E13E0CB9DC4687B1A3348BE" isDescriptionMandatory="true" name="foundation" optional="false" prefixes="Fnd0" teamcenterTemplate="true"/>

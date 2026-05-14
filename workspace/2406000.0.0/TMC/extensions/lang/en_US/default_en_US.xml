@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization"
+    Date="">
+<Add>
+   <key locale="en_US" id="LOVValue{::}A4_IFReleaseStatusLOV{::}A" status="Approved">Not Started</key>
+   <key locale="en_US" id="LOVValue{::}A4_IFReleaseStatusLOV{::}B" status="Approved">Wait</key>
+   <key locale="en_US" id="LOVValue{::}A4_IFReleaseStatusLOV{::}C" status="Invalid">ERP I/F Complete</key>
+   <key locale="en_US" id="LOVValue{::}A4_IFReleaseStatusLOV{::}D" status="Approved">Fail</key>
+   <key locale="en_US" id="LOVValue{::}A4_IFReleaseStatusLOV{::}E" status="Approved">Update Wait</key>
+   <key locale="en_US" id="LOVValue{::}A4_IFReleaseStatusLOV{::}F" status="Approved">Complete</key>
+   <key locale="en_US" id="Property{::}A4AForm{::}a4Thick" status="Approved">Thick</key>
+   <key locale="en_US" id="Property{::}A4BForm{::}a4Additive" status="Approved">Additive</key>
+   <key locale="en_US" id="Property{::}A4CForm{::}a4DiameterFactor" status="Approved">Diameter Factor</key>
+   <key locale="en_US" id="Property{::}A4GForm{::}a4Pitch" status="Approved">Pitch</key>
+   <key locale="en_US" id="Property{::}A4HalfProdItemRevision{::}a4CableCount" status="Approved">Cable Count</key>
+   <key locale="en_US" id="Property{::}A4HalfProdItemRevision{::}a4Color" status="Approved">Color</key>
+   <key locale="en_US" id="Property{::}A4HalfProdItemRevision{::}a4Diameter" status="Approved">Diameter</key>
+   <key locale="en_US" id="Property{::}A4HalfProdItemRevision{::}a4ExistingObject"
+       status="Approved">Existing Object</key>
+   <key locale="en_US" id="Property{::}A4HalfProdItemRevision{::}a4HalfType" status="Approved">Half Product Type</key>
+   <key locale="en_US" id="Property{::}A4HalfProdItemRevision{::}a4ItemID" status="Approved">Before Revision Item ID</key>
+   <key locale="en_US" id="Property{::}A4HalfProdItemRevision{::}a4Pitch" status="Approved">Pitch</key>
+   <key locale="en_US" id="Property{::}A4HalfProdItemRevision{::}a4ProcCode" status="Approved">Process Type</key>
+   <key locale="en_US" id="Property{::}A4HalfProdItemRevision{::}a4Standard" status="Approved">Standard</key>
+   <key locale="en_US" id="Property{::}A4MaterialsItemMaster{::}object_name" status="Invalid">Name</key>
+   <key locale="en_US" id="Property{::}A4MaterialsItemRevision{::}a4MaterialStandard"
+       status="Approved">Material Standard</key>
+   <key locale="en_US" id="Property{::}A4MaterialsItemRevision{::}a4Supplier" status="Approved">Supplier</key>
+   <key locale="en_US" id="Property{::}A4MaterialsItemRevision{::}a4Use" status="Approved">Use</key>
+   <key locale="en_US" id="Property{::}A4MaterialsItem{::}item_id" status="Invalid">ID</key>
+   <key locale="en_US" id="Property{::}A4MaterialsItem{::}object_name" status="Invalid">Name</key>
+   <key locale="en_US" id="Property{::}A4SalesItemRevision{::}a4Certifications" status="Approved">Certifications</key>
+   <key locale="en_US" id="Property{::}A4SalesItemRevision{::}a4CorrMaterialCode"
+       status="Approved">Corr Material Code</key>
+   <key locale="en_US" id="Property{::}A4SalesItemRevision{::}a4Note" status="Approved">Note</key>
+   <key locale="en_US" id="Property{::}A4SalesItemRevision{::}a4Order" status="Approved">Order</key>
+   <key locale="en_US" id="Property{::}A4SalesItemRevision{::}a4SaCodeL1" status="Approved">Major Category</key>
+   <key locale="en_US" id="Property{::}A4SalesItemRevision{::}a4SaCodeL2" status="Approved">Middle Category</key>
+   <key locale="en_US" id="Property{::}A4SalesItemRevision{::}a4SaCodeL3" status="Approved">Sub Category</key>
+   <key locale="en_US" id="Property{::}A4SalesItemRevision{::}a4Specification" status="Approved">Specification</key>
+   <key locale="en_US" id="Property{::}A4StandardItemRevision{::}a4DrawingStatus"
+       status="Approved">Drawing Status</key>
+   <key locale="en_US" id="Property{::}A4StandardItem{::}a4Option" status="Approved">Option</key>
+   <key locale="en_US" id="Property{::}A4TMCItemRevision{::}a4ProcNo" status="Approved">Proc No</key>
+   <key locale="en_US" id="Property{::}A4TMCItemRevision{::}a4Ratio" status="Approved">Ratio</key>
+   <key locale="en_US" id="Property{::}A4WorkH1Form{::}a4TurnCount" status="Approved">Turn Count</key>
+   <key locale="en_US" id="Property{::}A4WorkSubForm{::}a4UnitConsume1" status="Approved">Unit Consume1</key>
+   <key locale="en_US" id="Property{::}A4WorkSubForm{::}a4UnitConsume2" status="Approved">Unit Consume2</key>
+   <key locale="en_US" id="Property{::}A4WorkSubForm{::}a4UnitConsume3" status="Approved">Unit Consume3</key>
+   <key locale="en_US" id="Property{::}A4WorkSubForm{::}a4UnitConsume4" status="Approved">Unit Consume4</key>
+   <key locale="en_US" id="Property{::}BOMLine{::}bl_occ_a4Count" status="Approved">Count</key>
+   <key locale="en_US" id="Property{::}PSOccurrence{::}a4Count" status="Approved">Count</key>
+</Add>
+</TcBusinessDataLocalization>

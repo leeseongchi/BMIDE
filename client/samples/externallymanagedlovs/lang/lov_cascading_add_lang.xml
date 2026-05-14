@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TcBusinessDataLocalization xmlns="http://teamcenter.com/BusinessModel/TcBusinessDataLocalization" batchXSDVersion="1.0" Date="" >
+<Add>
+
+	<key locale="en_US" id="LOVValue{::}Ab0SampeCascadingBatchLOV{::}Static LOV 1" status="Approved" >LOV One</key>
+	<key locale="en_US" id="LOVValue{::}Ab0SampeCascadingBatchLOV{::}Static LOV 2" status="Approved" >LOV Two</key>
+	<key locale="en_US" id="LOVValue{::}Ab0SampeCascadingBatchLOV{::}Batch LOV 1" status="Approved" >LOV Three</key>
+	<key locale="en_US" id="LOVValueDescription{::}Ab0SampeCascadingBatchLOV{::}Static LOV 1" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValueDescription{::}Ab0SampeCascadingBatchLOV{::}Static LOV 2" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValueDescription{::}Ab0SampeCascadingBatchLOV{::}Batch LOV 1" status="Approved" >Some Description</key>
+	
+	<key locale="en_US" id="LOVValue{::}Ab0SampleBatchLOV{::}Sweden" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValue{::}Ab0SampleBatchLOV{::}India" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValue{::}Ab0SampleBatchLOV{::}UK" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValue{::}Ab0SampleBatchLOV{::}USA" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValue{::}Ab0SampleBatchLOV{::}Germany" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValue{::}Ab0SampleBatchLOV{::}South Africa" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValue{::}Ab0SampleBatchLOV{::}Australia" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValue{::}Ab0SampleBatchLOV{::}New Zealand" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValue{::}Ab0SampleBatchLOV{::}UAE" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValue{::}Ab0SampleBatchLOV{::}Pakistan" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValueDescription{::}Ab0SampleBatchLOV{::}Sweden" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValueDescription{::}Ab0SampleBatchLOV{::}India" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValueDescription{::}Ab0SampleBatchLOV{::}UK" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValueDescription{::}Ab0SampleBatchLOV{::}USA" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValueDescription{::}Ab0SampleBatchLOV{::}Germany" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValueDescription{::}Ab0SampleBatchLOV{::}South Africa" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValueDescription{::}Ab0SampleBatchLOV{::}Australia" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValueDescription{::}Ab0SampleBatchLOV{::}New Zealand" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValueDescription{::}Ab0SampleBatchLOV{::}UAE" status="Approved" >Some Description</key>
+	<key locale="en_US" id="LOVValueDescription{::}Ab0SampleBatchLOV{::}Pakistan" status="Approved" >Some Description</key>
+	
+</Add>
+</TcBusinessDataLocalization>
+

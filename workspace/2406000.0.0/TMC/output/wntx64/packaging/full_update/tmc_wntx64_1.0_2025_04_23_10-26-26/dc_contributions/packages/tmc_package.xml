@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--
+Copyright 2017 Siemens Product Lifecycle Management Software Inc. All Rights Reserved.
+================================================================================
+Copyright 2017.
+Siemens Product Lifecycle Management Software Inc.
+All Rights Reserved.
+================================================================================
+Copyright 2017 Siemens Product Lifecycle Management Software Inc. All Rights Reserved.
+-->
+<package guid="A3B2DB71FB6C175BF3ADB7BA28B4B02D" packageId="tmc">
+    <displayName value="${packageId}.displayName"/>
+    <description value="${packageId}.description"/>
+    <contentType value="application"/>
+    <propertyContribution/>
+    <dependencies/>
+    <artifact artifactType="fnd0_dataModelArtifact" guid="263F71EFA88C29B5837AD08520FC90E6">
+        <deploymentActions>
+            <install>
+                <target description="Perform the file deployment actions including unzip, copy, and delete." name="fileProcessing">
+                    <unzip dest="${Teamcenter_root_path}" src="${Teamcenter_tmc_path}/artifacts/tmc_template.zip"/>
+                    <unzip dest="${Teamcenter_root_path}" src="${Teamcenter_tmc_path}/artifacts/tmc_install.zip"/>
+                    <copy file="${Teamcenter_tmc_path}/artifacts/tmc_icons.zip" todir="${Teamcenter_root_path}/install/tmc"/>
+                </target>
+                <target description="Perform the operations that must be completed prior to the database being updated." name="preDatabaseUpdate">
+                    <TemplateDeploy name="tmc"/>
+                </target>
+                <target description="Perform the operations that are database dependent." name="databaseUpdate"/>
+                <target description="Perform the operations that must be completed after the database update has occurred." name="postDatabaseUpdate"/>
+            </install>
+            <update>
+                <target description="Perform the file deployment actions including unzip, copy, and delete." name="fileProcessing">
+                    <unzip dest="${Teamcenter_root_path}" src="${Teamcenter_tmc_path}/artifacts/tmc_template.zip"/>
+                    <unzip dest="${Teamcenter_root_path}" src="${Teamcenter_tmc_path}/artifacts/tmc_install.zip"/>
+                    <copy file="${Teamcenter_tmc_path}/artifacts/tmc_icons.zip" force="true" overwrite="true" todir="${Teamcenter_root_path}/install/tmc"/>
+                </target>
+                <target description="Perform the operations that must be completed prior to the database being updated." name="preDatabaseUpdate">
+                    <TemplateUpdate name="tmc"/>
+                </target>
+                <target description="Perform the operations that are database dependent." name="databaseUpdate"/>
+                <target description="Perform the operations that must be completed after the database update has occurred." name="postDatabaseUpdate"/>
+            </update>
+        </deploymentActions>
+    </artifact>
+</package>
